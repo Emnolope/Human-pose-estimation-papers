@@ -16,6 +16,8 @@ The projects and papers are sorted by season, then by month, then by alphabet. I
 
 ## Projects and papers
 
+___
+
 ### Fall 2018
 
 **:camera::package:[Deep 3D Human Pose Estimation Under Partial Body Presence](https://ieeexplore.ieee.org/document/8451031)** (Oct 2018)
