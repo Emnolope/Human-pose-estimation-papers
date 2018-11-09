@@ -14,9 +14,9 @@ The projects and papers are sorted by season, then by month, then by alphabet. I
 	- :door: 2D Models
 	- :package: 3D Models
 
-## Projects and papers
+---
 
-___
+## Projects and papers
 
 ### Fall 2018
 
@@ -196,6 +196,8 @@ ___
 
 ` `
 
+---
+
 ## DataSets
 
 MS COCO
@@ -234,6 +236,8 @@ Dense Pose Transfer
 
 [Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) - Neverova, N., Guler, R.A., & Kokkinos, I. (ECCV 2018)
 
+---
+
 ## Guide
 
 [Gesture and Sign Language Recognition with Deep Learning](https://biblio.ugent.be/publication/8573066/file/8573068)
@@ -247,6 +251,8 @@ Dense Pose Transfer
 [Awesome](https://github.com/cbsudux/awesome-human-pose-estimation)
 
 [HoreFice](https://github.com/horefice/Human-Pose-Estimation-from-RGB)
+
+---
 
 ## My personal goals:
 
