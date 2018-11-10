@@ -460,3 +460,15 @@ Deep 3D Pose Dictionary: 3D Human Pose Estimation from Single RGB Image Using De
 `
 A Data-Driven Approach for 3D Human Body Pose Reconstruction from a Kinect Sensor
 Accidental Fall Detection Based on Pose Analysis and SVDD
+
+$$$[Global Feature Learning with Human Body Region Guided for Person Re-identification](https://link.springer.com/chapter/10.1007/978-3-030-03398-9_2) (Nov 2018)
+ 
+XXX[HUMAN POSE ESTIMATION IN IMAGE SEQUENCES
+](http://eprints.utm.my/id/eprint/79567/1/TohJunHauMFKE2018.pdf) (Jun 2018)
+ 
+[Filling the Joints: Completion and Recovery of Incomplete 3D Human Poses](https://www.mdpi.com/2227-7080/6/4/97) (Jun 2018)
+ 
+[Adapting MobileNets for mobile based upper body pose estimation](https://repository.edgehill.ac.uk/10789/1/adapting-mobilenets-debnath.pdf) Oct 2018
+`Fast Boxer`
+
+[3D Human Pose Estimation with 2D Marginal Heatmaps](https://arxiv.org/pdf/1806.01484v2)
