@@ -2,10 +2,10 @@
 In recent years, tremendous amount of progress is being made in the field of Human Pose Estimation from RGB Camera, which is an interdisciplinary field that fuses computer vision, deep/machine learning and anatomy. This repo is for my study notes and will be used as a place for triaging new research papers. 
 
 ## Get Involved
-To make it a collaborative project, you may add content through pull requests or open an issue to let me know. 
+To make it more collaberative, hit me up if you see a paper I missed, or if you have a suggestion for something interesting.
 
 ## How this is sorted
-The projects and papers are sorted by season, then by month, then by alphabet. I do this because newer papers are usually more sophisticated than older ones and to make removing duplicates easier. Paper dates will depend on their initial release, ain't nobody care about yo 'refinements' a year and a half after. Below the publications are short, memorable bite sized summaries. These summaries are memonic, and should have a target audience of 4.
+The papers gotta be sorted by season. This is to make it sane, there are way too many papers out there and this gives some good arbitrary division. Then they're sorted by month then by first letter. Again, arbitrary division to make locating and organizing them easier. This chronologically based layout also helps with because newer papers usually build off of old ones. Ain't nobody care about yo 5 'refinements' to a paper a year after its release. That's why it's better to put the release date of the FIRST instance of the paper. They also have very short and memorable memonic descriptions. Equivariant Siamese Network is no good. Twins look at a guy and compare notes is good. They should be memorable, vivid, and descriptive to the essence of what makes the project different from the others.
 
 - Time Dimension
 	- :camera: Single-Shot 
@@ -18,10 +18,11 @@ The projects and papers are sorted by season, then by month, then by alphabet. I
 
 ## Projects and papers
 ### Fall 2018
+D3DPEUPBP
 :camera::package:[Deep 3D Human Pose Estimation Under Partial Body Presence](https://ieeexplore.ieee.org/document/8451031) (Oct 2018)
 
 `My legs have been chopped off, and my head, but tis but a scratch.`
-
+3DHPEUSOIRT
 :camera::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://www.researchgate.net/profile/Philipp_Werner/publication/327995319_3D_Human_Pose_Estimation_Using_Stochastic_Optimization_in_Real_Time/links/5bc8233992851cae21ad83ac/3D-Human-Pose-Estimation-Using-Stochastic-Optimization-in-Real-Time.pdf) (Oct 2018)
 
 `Try again and again, till you get it right. Uses depth based sensors. RTW + Particle Swarms`
