@@ -19,21 +19,21 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 ## Projects and papers
 ### Fall 2018
 
-**D3DPEUPBP Oct 2018**
+**D3DPEUPBP**
 
-:camera::package:[Deep 3D Human Pose Estimation Under Partial Body Presence](https://ieeexplore.ieee.org/document/8451031)
+:camera::package:[Deep 3D Human Pose Estimation Under Partial Body Presence](https://ieeexplore.ieee.org/document/8451031) (Oct 2018)
 
 `My legs have been chopped off, and my head, but tis but a scratch.`
 
-**3DHPEUSOIRT Oct 2018**
+**3DHPEUSOIRT**
 
-:camera::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://www.researchgate.net/profile/Philipp_Werner/publication/327995319_3D_Human_Pose_Estimation_Using_Stochastic_Optimization_in_Real_Time/links/5bc8233992851cae21ad83ac/3D-Human-Pose-Estimation-Using-Stochastic-Optimization-in-Real-Time.pdf) 
+:camera::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://www.researchgate.net/profile/Philipp_Werner/publication/327995319_3D_Human_Pose_Estimation_Using_Stochastic_Optimization_in_Real_Time/links/5bc8233992851cae21ad83ac/3D-Human-Pose-Estimation-Using-Stochastic-Optimization-in-Real-Time.pdf) (Oct 2018)
 
 `Try again and again, till you get it right. Uses depth based sensors. RTW + Particle Swarms`
 
-**A3DHPEVMDS (Sep 2018)**
+**A3DHPEVMDS**
 
-:camera::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf)
+:camera::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf) (Sep 2018)
 
 `Continuation of FBI work, also got multimodal network now. IDK What that means`
 
@@ -43,23 +43,33 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 `Take the human body, and shove it into code blocks`
 
+**DPT**
+
 :door:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) (Sep 2018)
 
 `color in a mannequin, a machine imagines the details, then animates it's paper statue`
+
+**3DEPEVIL**
 
 :camera::package:[3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf) (Sep 2018)
 
 `Headcam, they use a very complicated ragdoll, also, just walking and running`
 
+**3DHPEWSEE**
+
 :camera::package:[3D Human Pose Estimation with Siamese Equivariant Embedding](https://arxiv.org/pdf/1809.07217.pdf) (Sep 2018)
 
 `Twins compare their answers after doing their math homework. (Homework refers to the 3d pose estimation)`
+
+**SOAWVFT2018ECCVPTCO3DHPE**
 
 :camera::package:[Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation](https://arxiv.org/pdf/1809.04987v1.pdf) (Sep 2018)
 
 `They block their face and body with cheap photoshop techniques, then the machine has to "x-ray" through all that.`
 
 ### Summer 2018
+
+**NBFUDLAMBHPASE**
 
 :camera::package:[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) [[CODE]](http://github.com/mohomran/neural_body_fitting) (Aug 2018)
 
