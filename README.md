@@ -18,18 +18,26 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ## Projects and papers
 ### Fall 2018
-D3DPEUPBP
-:camera::package:[Deep 3D Human Pose Estimation Under Partial Body Presence](https://ieeexplore.ieee.org/document/8451031) (Oct 2018)
+
+**D3DPEUPBP Oct 2018**
+
+:camera::package:[Deep 3D Human Pose Estimation Under Partial Body Presence](https://ieeexplore.ieee.org/document/8451031)
 
 `My legs have been chopped off, and my head, but tis but a scratch.`
-3DHPEUSOIRT
-:camera::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://www.researchgate.net/profile/Philipp_Werner/publication/327995319_3D_Human_Pose_Estimation_Using_Stochastic_Optimization_in_Real_Time/links/5bc8233992851cae21ad83ac/3D-Human-Pose-Estimation-Using-Stochastic-Optimization-in-Real-Time.pdf) (Oct 2018)
+
+**3DHPEUSOIRT Oct 2018**
+
+:camera::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://www.researchgate.net/profile/Philipp_Werner/publication/327995319_3D_Human_Pose_Estimation_Using_Stochastic_Optimization_in_Real_Time/links/5bc8233992851cae21ad83ac/3D-Human-Pose-Estimation-Using-Stochastic-Optimization-in-Real-Time.pdf) 
 
 `Try again and again, till you get it right. Uses depth based sensors. RTW + Particle Swarms`
 
-:camera::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf) (Sep 2018)
+**A3DHPEVMDS (Sep 2018)**
+
+:camera::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf)
 
 `Continuation of FBI work, also got multimodal network now. IDK What that means`
+
+**DLCMFHPE**
 
 :camera::door:[Deeply Learned Compositional Models for Human Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Tang_Deeply_Learned_Compositional_ECCV_2018_paper.pdf) (Sep 2018)
 
