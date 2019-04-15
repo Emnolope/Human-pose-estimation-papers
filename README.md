@@ -75,21 +75,31 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 `The circle of 3D pose estimation. 2d Image -> 2d Color Me Rad guy -> 3d pudgy man -> photograph of said man -> 2d Image`
 
+**SSMP3DBPEFMRGBI**
+
 :camera::package: [Single-Shot Multi-Person 3D  Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) (Aug 2018)
 
 `They use a ORPM, whatever that means. And they have some very obviouly green screened images.`
+
+**RPI3DMSRARFMMC**
 
 :camera::package: [Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture](https://arxiv.org/pdf/1808.01525v1.pdf) (Aug 2018)
 
 `use lots of cameras to make just one camera better, and do this over and over and over again`
 
+**3DHPEWRN**
+
 :camera::package:[3D Human Pose Estimation with Relational Networks](https://arxiv.org/pdf/1805.08961v2.pdf) (Jul 2018)
 
 `Back bone connected to the shoulder bone, shoulder bone connected to the neck bone...`
-	
+
+**HPEWPIL**
+
 :door:[Human Pose Estimation with Parsing Induced Learner](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nie_Human_Pose_Estimation_CVPR_2018_paper.pdf) (Jun 2018)
 
 ` `
+
+**FBIPTBTGB2DIA3DHPUFOBI**
 
 :camera::package:[FBI-Pose: Towards Bridging the Gap between 2D Images and 3D Human Poses using Forward-or-Backward Information](https://arxiv.org/pdf/1806.09241) (Jun 2018)
 
@@ -97,9 +107,13 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ### Spring 2018
 
+**DRP3DDRI3DHPE**
+
 :camera::package:[DRPose3D: Depth Ranking in 3D Human Pose Estimation](https://arxiv.org/pdf/1805.08973.pdf) (May 2018)
 
 `These guys do FBI but without the "crowd sourced" annotations`
+
+**IARM3DHPEFWSD**
 
 :camera::package:[It's all Relative: Monocular 3D Human Pose Estimation from Weakly Supervised Data](https://arxiv.org/pdf/1805.06880v2.pdf) (May 2018)
 
