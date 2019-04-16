@@ -17,6 +17,157 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 ---
 
 ## Projects and papers
+### Spring 2019
+
+CFAFHPE
+Feb 2019
+Cascade Feature Aggregation for Human Pose Estimation
+https://arxiv.org/pdf/1902.07837.pdf
+
+SGCNF3DHPR (GOOD)
+Apr 2019
+Semantic Graph Convolutional Networks for 3D Human Pose Regression
+https://arxiv.org/pdf/1904.03345v1.pdf
+
+ITWHPEUE2DFAI3D
+Apr 2019
+In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representation
+https://arxiv.org/pdf/1904.03289v1.pdf
+
+SSNFHPE (GOOD)
+Apr 2019
+Spatial Shortcut Network for Human Pose Estimation
+https://arxiv.org/pdf/1904.03141v1.pdf
+
+PPCFEHPE
+Mar 2019
+PifPaf: Composite Fields for Human Pose Estimation
+https://arxiv.org/pdf/1903.06593v2.pdf
+
+FOWISAMFHPE
+Sep 2018
+Focus On What's Important: Self-Attention Model for Human Pose Estimation
+https://arxiv.org/e-print/1809.08371v2
+
+FHPE (GOOD)
+Nov 2018
+Fast Human Pose Estimation
+https://arxiv.org/pdf/1811.05419v2.pdf
+
+M3DHPEBGAORH
+Apr 2019
+Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking
+https://arxiv.org/pdf/1904.01324v1
+
+DBDRD3DHPASFASCI (GOOD)
+Mar 2019
+DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image
+https://arxiv.org/pdf/1903.10153v3.pdf
+
+DIAFFHPT
+Mar 2019
+Dense Intrinsic Appearance Flow for Human Pose Transfer
+http://arxiv.org/abs/1903.11326v1
+
+WSDOGARF3DHPE (GOOD)
+Mar 2019
+Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation
+https://arxiv.org/pdf/1903.08839v2
+
+ESJRLFTHP (GOOD)
+Nov 2018
+Explicit Spatiotemporal Joint Relation Learning for Tracking Human Pose
+http://arxiv.org/pdf/1811.07123v3.pdf
+
+KPTIPAFCFKSWDTIHP (GOOD)
+Mar 2019
+KPTransfer: improved performance and faster convergence from keypoint subset-wise domain transfer in human pose estimation
+https://arxiv.org/pdf/1903.09926v1
+
+TLFFHOIRAHPE
+Mar 2019
+Turbo Learning Framework for Human-Object Interactions Recognition and Human Pose Estimation
+https://arxiv.org/pdf/1903.06355v1
+
+RNWSTOAARNFNF3DHPE
+Feb 2019
+RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
+https://arxiv.org/pdf/1902.09868v2
+
+PFMAGHPRN (GOOD)
+Dec 2018
+PoseFix: Model-agnostic General Human Pose Refinement Network
+https://arxiv.org/pdf/1812.03595v3.pdf
+
+SSL3DHPUMVG (GOOD)
+Feb 2019
+Self-Supervised Learning of 3D Human Pose using Multi-view Geometry
+http://arxiv.org/pdf/1903.02330v1.pdf
+
+DHRRLFHPE
+Feb 2019
+Deep High-Resolution Representation Learning for Human Pose Estimation
+https://arxiv.org/pdf/1902.09212v1
+
+3DHPEWSEE
+Sep 2018
+3D Human Pose Estimation with Siamese Equivariant Embedding
+https://arxiv.org/pdf/1809.07217v2
+
+3DHPEFDMV2DP
+Feb 2019
+3D Human Pose Estimation from Deep Multi-View 2D Pose
+https://arxiv.org/pdf/1902.02841v1
+
+VI3DHPE
+Jan 2019
+View Invariant 3D Human Pose Estimation
+https://arxiv.org/pdf/1901.10841v1
+
+HPEUMPAEM
+Jan 2019
+Human Pose Estimation using Motion Priors and Ensemble Models
+https://arxiv.org/pdf/1901.09156v1
+
+ATDATAHPEAT
+Jan 2019
+A Top-down Approach to Articulated Human Pose Estimation and Tracking
+https://arxiv.org/pdf/1901.07680v1
+
+HPEWSCI
+Jan 2019
+Human Pose Estimation with Spatial Contextual Information
+https://arxiv.org/pdf/1901.01760v1
+
+HPAPEFAVUDCS
+Dec 2018
+Human Pose and Path Estimation from Aerial Video using Dynamic Classifier Selection
+https://arxiv.org/pdf/1812.06408v1
+
+ONAFCNF3DHPE
+Nov 2018
+OriNet: A Fully Convolutional Network for 3D Human Pose Estimation
+https://arxiv.org/pdf/1811.04989v1
+
+3DPEW2DMH
+Jun 2018
+3D Human Pose Estimation with 2D Marginal Heatmaps
+https://arxiv.org/pdf/1806.01484v2
+
+SOAWVHFT2018ECCV
+Sep 2018
+Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation
+https://arxiv.org/pdf/1809.04987v3
+
+CPNF3DHPEC
+Oct 2018
+Cascaded Pyramid Network for 3D Human Pose Estimation Challenge
+https://arxiv.org/pdf/1810.01616v
+
+### Winter 2018
+
+
+
 ### Fall 2018
 
 **D3DPEUPBP**
