@@ -8,8 +8,7 @@ To make it more collaberative, hit me up if you see a paper I missed, or if you 
 The papers gotta be sorted by season. This is to make it sane, there are way too many papers out there and this gives some good arbitrary division. Then they're sorted by month then by first letter. Again, arbitrary division to make locating and organizing them easier. This chronologically based layout also helps with because newer papers usually build off of old ones. Ain't nobody care about yo 5 'refinements' to a paper a year after its release. That's why it's better to put the release date of the FIRST instance of the paper. They also have very short and memorable memonic descriptions. Equivariant Siamese Network is no good. Twins look at a guy and compare notes is good. They should be memorable, vivid, and descriptive to the essence of what makes the project different from the others.
 
 - Time Dimension
-	- :camera: Single-Shot 
-	- :movie_camera: Video/Real-Time
+	- :camera: Single-Shot 	- :movie_camera: Video/Real-Time
 - Spatial Dimensions
 	- :door: 2D Models
 	- :package: 3D Models
@@ -18,11 +17,6 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ## Projects and papers
 ### Spring 2019
-
-CFAFHPE
-Feb 2019
-Cascade Feature Aggregation for Human Pose Estimation
-https://arxiv.org/pdf/1902.07837.pdf
 
 SGCNF3DHPR (GOOD)
 Apr 2019
@@ -39,11 +33,6 @@ Apr 2019
 Spatial Shortcut Network for Human Pose Estimation
 https://arxiv.org/pdf/1904.03141v1.pdf
 
-PPCFEHPE
-Mar 2019
-PifPaf: Composite Fields for Human Pose Estimation
-https://arxiv.org/pdf/1903.06593v2.pdf
-
 FOWISAMFHPE
 Sep 2018
 Focus On What's Important: Self-Attention Model for Human Pose Estimation
@@ -59,90 +48,15 @@ Apr 2019
 Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking
 https://arxiv.org/pdf/1904.01324v1
 
-DBDRD3DHPASFASCI (GOOD)
-Mar 2019
-DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image
-https://arxiv.org/pdf/1903.10153v3.pdf
-
-DIAFFHPT
-Mar 2019
-Dense Intrinsic Appearance Flow for Human Pose Transfer
-http://arxiv.org/abs/1903.11326v1
-
-WSDOGARF3DHPE (GOOD)
-Mar 2019
-Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation
-https://arxiv.org/pdf/1903.08839v2
-
 ESJRLFTHP (GOOD)
 Nov 2018
 Explicit Spatiotemporal Joint Relation Learning for Tracking Human Pose
 http://arxiv.org/pdf/1811.07123v3.pdf
 
-KPTIPAFCFKSWDTIHP (GOOD)
-Mar 2019
-KPTransfer: improved performance and faster convergence from keypoint subset-wise domain transfer in human pose estimation
-https://arxiv.org/pdf/1903.09926v1
-
-TLFFHOIRAHPE
-Mar 2019
-Turbo Learning Framework for Human-Object Interactions Recognition and Human Pose Estimation
-https://arxiv.org/pdf/1903.06355v1
-
-RNWSTOAARNFNF3DHPE
-Feb 2019
-RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
-https://arxiv.org/pdf/1902.09868v2
-
-PFMAGHPRN (GOOD)
-Dec 2018
-PoseFix: Model-agnostic General Human Pose Refinement Network
-https://arxiv.org/pdf/1812.03595v3.pdf
-
-SSL3DHPUMVG (GOOD)
-Feb 2019
-Self-Supervised Learning of 3D Human Pose using Multi-view Geometry
-http://arxiv.org/pdf/1903.02330v1.pdf
-
-DHRRLFHPE
-Feb 2019
-Deep High-Resolution Representation Learning for Human Pose Estimation
-https://arxiv.org/pdf/1902.09212v1
-
 3DHPEWSEE
 Sep 2018
 3D Human Pose Estimation with Siamese Equivariant Embedding
 https://arxiv.org/pdf/1809.07217v2
-
-3DHPEFDMV2DP
-Feb 2019
-3D Human Pose Estimation from Deep Multi-View 2D Pose
-https://arxiv.org/pdf/1902.02841v1
-
-VI3DHPE
-Jan 2019
-View Invariant 3D Human Pose Estimation
-https://arxiv.org/pdf/1901.10841v1
-
-HPEUMPAEM
-Jan 2019
-Human Pose Estimation using Motion Priors and Ensemble Models
-https://arxiv.org/pdf/1901.09156v1
-
-ATDATAHPEAT
-Jan 2019
-A Top-down Approach to Articulated Human Pose Estimation and Tracking
-https://arxiv.org/pdf/1901.07680v1
-
-HPEWSCI
-Jan 2019
-Human Pose Estimation with Spatial Contextual Information
-https://arxiv.org/pdf/1901.01760v1
-
-HPAPEFAVUDCS
-Dec 2018
-Human Pose and Path Estimation from Aerial Video using Dynamic Classifier Selection
-https://arxiv.org/pdf/1812.06408v1
 
 ONAFCNF3DHPE
 Nov 2018
@@ -166,7 +80,104 @@ https://arxiv.org/pdf/1810.01616v
 
 ### Winter 2018
 
+**DBDRD3DHPASFASCI** (GOOD)
 
+[DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image](https://arxiv.org/pdf/1903.10153v3.pdf) (Mar 2019)
+
+` `
+
+**DIAFFHPT**
+
+[Dense Intrinsic Appearance Flow for Human Pose Transfer] (http://arxiv.org/abs/1903.11326v1) (Mar 2019)
+
+` `
+
+**KPTIPAFCFKSWDTIHP** (GOOD)
+
+[KPTransfer: improved performance and faster convergence from keypoint subset-wise domain transfer in human pose estimation] (https://arxiv.org/pdf/1903.09926v1) (Mar 2019)
+
+**PPCFEHPE**
+
+[PifPaf: Composite Fields for Human Pose Estimation] (https://arxiv.org/pdf/1903.06593v2.pdf) (Mar 2019)
+
+` `
+
+**TLFFHOIRAHPE**
+
+[Turbo Learning Framework for Human-Object Interactions Recognition and Human Pose Estimation] (https://arxiv.org/pdf/1903.06355v1) (Mar 2019)
+
+` `
+
+**WSDOGARF3DHPE** (GOOD)
+
+[Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation] (https://arxiv.org/pdf/1903.08839v2) (Mar 2019)
+
+` `
+
+**CFAFHPE**
+
+[Cascade Feature Aggregation for Human Pose Estimation] (https://arxiv.org/pdf/1902.07837.pdf) (Feb 2019)
+
+` `
+
+**3DHPEFDMV2DP**
+
+[3D Human Pose Estimation from Deep Multi-View 2D Pose] (https://arxiv.org/pdf/1902.02841v1) (Feb 2019)
+
+` `
+
+**DHRRLFHPE**
+
+[Deep High-Resolution Representation Learning for Human Pose Estimation] (https://arxiv.org/pdf/1902.09212v1) (Feb 2019)
+
+` `
+
+**RNWSTOAARNFNF3DHPE**
+
+[RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation] (https://arxiv.org/pdf/1902.09868v2) (Feb 2019)
+
+` `
+
+**SSL3DHPUMVG** (GOOD)
+
+[Self-Supervised Learning of 3D Human Pose using Multi-view Geometry] (http://arxiv.org/pdf/1903.02330v1.pdf) (Feb 2019)
+
+` `
+
+**ATDATAHPEAT**
+
+[A Top-down Approach to Articulated Human Pose Estimation and Tracking] (https://arxiv.org/pdf/1901.07680v1) (Jan 2019)
+
+` `
+
+**HPEUMPAEM**
+
+[Human Pose Estimation using Motion Priors and Ensemble Models] (https://arxiv.org/pdf/1901.09156v1) (Jan 2019)
+
+` `
+
+**HPEWSCI**
+
+[Human Pose Estimation with Spatial Contextual Information] (https://arxiv.org/pdf/1901.01760v1) (Jan 2019)
+
+` `
+
+**VI3DHPE**
+
+[View Invariant 3D Human Pose Estiation] (https://arxiv.org/pdf/1901.10841v1) (Jan 2019)
+
+` `
+
+**HPAPEFAVUDCS**
+
+[Human ose and Path Estimation from Aerial Video using Dynamic Classifier Selection] (https//arxiv.org/pdf/1812.06408v1) (Dec 2018)
+` `
+
+**PFMAGHPRN** (GOOD)
+
+[PoseFix: Model-agnostic General Human Pose Refinement Network] (https://arxiv.org/pdf/1812.03595v3.pdf) (Dec 2018)
+
+` `
 
 ### Fall 2018
 
