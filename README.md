@@ -18,65 +18,28 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 ## Projects and papers
 ### Spring 2019
 
-SGCNF3DHPR (GOOD)
-Apr 2019
-Semantic Graph Convolutional Networks for 3D Human Pose Regression
-https://arxiv.org/pdf/1904.03345v1.pdf
+**ITWHPEUE2DFAI3D**
 
-ITWHPEUE2DFAI3D
-Apr 2019
-In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representation
-https://arxiv.org/pdf/1904.03289v1.pdf
+[In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representation](https://arxiv.org/pdf/1904.03289v1.pdf) (Apr 2019)
 
-SSNFHPE (GOOD)
-Apr 2019
-Spatial Shortcut Network for Human Pose Estimation
-https://arxiv.org/pdf/1904.03141v1.pdf
+` `
 
-FOWISAMFHPE
-Sep 2018
-Focus On What's Important: Self-Attention Model for Human Pose Estimation
-https://arxiv.org/e-print/1809.08371v2
+**M3DHPEBGAORH**
 
-FHPE (GOOD)
-Nov 2018
-Fast Human Pose Estimation
-https://arxiv.org/pdf/1811.05419v2.pdf
+[Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking](https://arxiv.org/pdf/1904.01324v1.pdf) (Apr 2019)
 
-M3DHPEBGAORH
-Apr 2019
-Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking
-https://arxiv.org/pdf/1904.01324v1
+` `
 
-ESJRLFTHP (GOOD)
-Nov 2018
-Explicit Spatiotemporal Joint Relation Learning for Tracking Human Pose
-http://arxiv.org/pdf/1811.07123v3.pdf
+**SGCNF3DHPR (GOOD)**
 
-3DHPEWSEE
-Sep 2018
-3D Human Pose Estimation with Siamese Equivariant Embedding
-https://arxiv.org/pdf/1809.07217v2
+Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://arxiv.org/pdf/1904.03345v1.pdf) (Apr 2019)
 
-ONAFCNF3DHPE
-Nov 2018
-OriNet: A Fully Convolutional Network for 3D Human Pose Estimation
-https://arxiv.org/pdf/1811.04989v1
+` `
+**SSNFHPE (GOOD)**
 
-3DPEW2DMH
-Jun 2018
-3D Human Pose Estimation with 2D Marginal Heatmaps
-https://arxiv.org/pdf/1806.01484v2
+[Spatial Shortcut Network for Human Pose Estimation](https://arxiv.org/pdf/1904.03141v1.pdf) (Apr 2019)
 
-SOAWVHFT2018ECCV
-Sep 2018
-Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation
-https://arxiv.org/pdf/1809.04987v3
-
-CPNF3DHPEC
-Oct 2018
-Cascaded Pyramid Network for 3D Human Pose Estimation Challenge
-https://arxiv.org/pdf/1810.01616v
+` `
 
 ### Winter 2018
 
@@ -164,7 +127,7 @@ https://arxiv.org/pdf/1810.01616v
 
 **VI3DHPE**
 
-[View Invariant 3D Human Pose Estiation] (https://arxiv.org/pdf/1901.10841v1)(Jan 2019)
+[View Invariant 3D Human Pose Estiation](https://arxiv.org/pdf/1901.10841v1)(Jan 2019)
 
 ` `
 
