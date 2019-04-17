@@ -88,94 +88,94 @@ https://arxiv.org/pdf/1810.01616v
 
 **DIAFFHPT**
 
-[Dense Intrinsic Appearance Flow for Human Pose Transfer] (http://arxiv.org/abs/1903.11326v1) (Mar 2019)
+[Dense Intrinsic Appearance Flow for Human Pose Transfer](http://arxiv.org/abs/1903.11326v1) (Mar 2019)
 
 ` `
 
 **KPTIPAFCFKSWDTIHP** (GOOD)
 
-[KPTransfer: improved performance and faster convergence from keypoint subset-wise domain transfer in human pose estimation] (https://arxiv.org/pdf/1903.09926v1) (Mar 2019)
+[KPTransfer: improved performance and faster convergence from keypoint subset-wise domain transfer in human pose estimation](https://arxiv.org/pdf/1903.09926v1) (Mar 2019)
 
 **PPCFEHPE**
 
-[PifPaf: Composite Fields for Human Pose Estimation] (https://arxiv.org/pdf/1903.06593v2.pdf) (Mar 2019)
+[PifPaf: Composite Fields for Human Pose Estimation](https://arxiv.org/pdf/1903.06593v2.pdf) (Mar 2019)
 
 ` `
 
 **TLFFHOIRAHPE**
 
-[Turbo Learning Framework for Human-Object Interactions Recognition and Human Pose Estimation] (https://arxiv.org/pdf/1903.06355v1) (Mar 2019)
+[Turbo Learning Framework for Human-Object Interactions Recognition and Human Pose Estimation](https://arxiv.org/pdf/1903.06355v1) (Mar 2019)
 
 ` `
 
 **WSDOGARF3DHPE** (GOOD)
 
-[Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation] (https://arxiv.org/pdf/1903.08839v2) (Mar 2019)
+[Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation](https://arxiv.org/pdf/1903.08839v2) (Mar 2019)
 
 ` `
 
 **CFAFHPE**
 
-[Cascade Feature Aggregation for Human Pose Estimation] (https://arxiv.org/pdf/1902.07837.pdf) (Feb 2019)
+[Cascade Feature Aggregation for Human Pose Estimation](https://arxiv.org/pdf/1902.07837.pdf) (Feb 2019)
 
 ` `
 
 **3DHPEFDMV2DP**
 
-[3D Human Pose Estimation from Deep Multi-View 2D Pose] (https://arxiv.org/pdf/1902.02841v1) (Feb 2019)
+[3D Human Pose Estimation from Deep Multi-View 2D Pose](https://arxiv.org/pdf/1902.02841v1) (Feb 2019)
 
 ` `
 
 **DHRRLFHPE**
 
-[Deep High-Resolution Representation Learning for Human Pose Estimation] (https://arxiv.org/pdf/1902.09212v1) (Feb 2019)
+[Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/pdf/1902.09212v1) (Feb 2019)
 
 ` `
 
 **RNWSTOAARNFNF3DHPE**
 
-[RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation] (https://arxiv.org/pdf/1902.09868v2) (Feb 2019)
+[RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation](https://arxiv.org/pdf/1902.09868v2) (Feb 2019)
 
 ` `
 
 **SSL3DHPUMVG** (GOOD)
 
-[Self-Supervised Learning of 3D Human Pose using Multi-view Geometry] (http://arxiv.org/pdf/1903.02330v1.pdf) (Feb 2019)
+[Self-Supervised Learning of 3D Human Pose using Multi-view Geometry](http://arxiv.org/pdf/1903.02330v1.pdf) (Feb 2019)
 
 ` `
 
 **ATDATAHPEAT**
 
-[A Top-down Approach to Articulated Human Pose Estimation and Tracking] (https://arxiv.org/pdf/1901.07680v1) (Jan 2019)
+[A Top-down Approach to Articulated Human Pose Estimation and Tracking](https://arxiv.org/pdf/1901.07680v1) (Jan 2019)
 
 ` `
 
 **HPEUMPAEM**
 
-[Human Pose Estimation using Motion Priors and Ensemble Models] (https://arxiv.org/pdf/1901.09156v1) (Jan 2019)
+[Human Pose Estimation using Motion Priors and Ensemble Models](https://arxiv.org/pdf/1901.09156v1) (Jan 2019)
 
 ` `
 
 **HPEWSCI**
 
-[Human Pose Estimation with Spatial Contextual Information] (https://arxiv.org/pdf/1901.01760v1) (Jan 2019)
+[Human Pose Estimation with Spatial Contextual Information](https://arxiv.org/pdf/1901.01760v1) (Jan 2019)
 
 ` `
 
 **VI3DHPE**
 
-[View Invariant 3D Human Pose Estiation] (https://arxiv.org/pdf/1901.10841v1) (Jan 2019)
+[View Invariant 3D Human Pose Estiation] (https://arxiv.org/pdf/1901.10841v1)(Jan 2019)
 
 ` `
 
 **HPAPEFAVUDCS**
 
-[Human ose and Path Estimation from Aerial Video using Dynamic Classifier Selection] (https//arxiv.org/pdf/1812.06408v1) (Dec 2018)
+[Human ose and Path Estimation from Aerial Video using Dynamic Classifier Selection](https//arxiv.org/pdf/1812.06408v1) (Dec 2018)
 ` `
 
 **PFMAGHPRN** (GOOD)
 
-[PoseFix: Model-agnostic General Human Pose Refinement Network] (https://arxiv.org/pdf/1812.03595v3.pdf) (Dec 2018)
+[PoseFix: Model-agnostic General Human Pose Refinement Network](https://arxiv.org/pdf/1812.03595v3.pdf) (Dec 2018)
 
 ` `
 
