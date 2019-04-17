@@ -32,9 +32,10 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 **SGCNF3DHPR (GOOD)**
 
-Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://arxiv.org/pdf/1904.03345v1.pdf) (Apr 2019)
+[Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://arxiv.org/pdf/1904.03345v1.pdf) (Apr 2019)
 
 ` `
+
 **SSNFHPE (GOOD)**
 
 [Spatial Shortcut Network for Human Pose Estimation](https://arxiv.org/pdf/1904.03141v1.pdf) (Apr 2019)
@@ -205,6 +206,12 @@ f
 :camera::package: [Single-Shot Multi-Person 3D  Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) (Aug 2018)
 
 `They use a ORPM, whatever that means. And they have some very obviouly green screened images.`
+
+**M3DHPEUILSALSTMN**
+
+[Multiview 3D human pose estimation using improved least-squares and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0925231218311858) (Jul 2018)
+
+`Literally exactly what I'm trying to build COPY COPY COPY`
 
 **RPI3DMSRARFMMC**
 
@@ -461,10 +468,6 @@ This is sorted in chronological order, for the specific purpose of NOT finding t
 [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) [[Project]](http://www.f-zhou.com/hpe.html) (Sep 2018)
 
 `Not relevant. I'll make a replica out of you from soggy clay. Depth training, regular camera tests`
-
-[Multiview 3D human pose estimation using improved least-squares and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0925231218311858) (Jul 2018)
-
-`LSTM`
 
 [Hierarchical Contextual Refinement Networks for Human Pose Estimation](https://niexc.github.io/assets/pdf/HCRN_HPE_TIP2018.pdf) (Oct 2018)
 
