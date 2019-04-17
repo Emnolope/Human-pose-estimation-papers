@@ -134,7 +134,8 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 **HPAPEFAVUDCS**
 
-[Human ose and Path Estimation from Aerial Video using Dynamic Classifier Selection](https//arxiv.org/pdf/1812.06408v1) (Dec 2018)
+[Human Pose and Path Estimation from Aerial Video using Dynamic Classifier Selection](https//arxiv.org/pdf/1812.06408v1) (Dec 2018)
+
 ` `
 
 **PFMAGHPRN** (GOOD)
