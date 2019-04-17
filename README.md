@@ -22,13 +22,13 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 [In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representation](https://arxiv.org/pdf/1904.03289v1.pdf) (Apr 2019)
 
-` `
+`It's like a sillouete, but extra. Also some reprojection loss nonsense.`
 
 **M3DHPEBGAORH**
 
 [Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking](https://arxiv.org/pdf/1904.01324v1.pdf) (Apr 2019)
 
-` `
+`Teach something to make stick figures out of sillouettes, so you can make stick figures out of sillouettes`
 
 **SGCNF3DHPR (GOOD)**
 
