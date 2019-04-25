@@ -1,3 +1,12 @@
+`
+Ordinal Ranking on 2d skeleton
+Parametric model
+Give the sticks direction (My idea)
+Transfer over 2d skeleton or 2d silouete and 3d skeleton
+2dPoseNet
+Human 3.6M
+`
+
 # Human Pose Estimation from RGB Camera - The repo
 In recent years, tremendous amount of progress is being made in the field of Human Pose Estimation from RGB Camera, which is an interdisciplinary field that fuses computer vision, deep/machine learning and anatomy. This repo is for my study notes and will be used as a place for triaging new research papers. 
 
