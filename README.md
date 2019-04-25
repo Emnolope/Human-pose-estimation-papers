@@ -1,4 +1,11 @@
 `
+VR GOALS, create cheapish, LED-less body tracking solution. raspberry pi based
+teach mathematics on the internet with the 3d medium
+say hi to everyone
+create a new form a 3 dimensional mathematics
+be productive while in the virtual space
+revolutionize speech to text for VR applications
+find a way to view webpages in VR
 Ordinal Ranking on 2d skeleton
 Parametric model
 Give the sticks direction (My idea)
