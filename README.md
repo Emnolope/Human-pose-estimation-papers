@@ -12,6 +12,9 @@ Give the sticks direction (My idea)
 Transfer over 2d skeleton or 2d silouete and 3d skeleton
 2dPoseNet
 Human 3.6M
+
+Another Good Resource 
+paperswithcode.com/task/pose-estimation
 `
 
 # Human Pose Estimation from RGB Camera - The repo
