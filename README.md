@@ -14,7 +14,8 @@ Transfer over 2d skeleton or 2d silouete and 3d skeleton
 Human 3.6M
 
 Another Good Resource 
-paperswithcode.com/task/pose-estimation
+[Code](paperswithcode.com/task/pose-estimation)
+[Arxiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=3d+pose+estimation&terms-0-field=all&terms-1-operator=OR&terms-1-term=human+pose+estimation&terms-1-field=all&terms-2-operator=OR&terms-2-term=3d+human+pose&terms-2-field=all&terms-3-operator=OR&terms-3-term=human+pose&terms-3-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
 `
 
 # Human Pose Estimation from RGB Camera - The repo
