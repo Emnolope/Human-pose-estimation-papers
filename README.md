@@ -36,6 +36,15 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 ---
 
 ## Projects and papers
+
+### Summer 2019
+
+**TMGC**
+[Towards Markerless Grasp Capture](https://arxiv.org/pdf/1907.07388.pdf) (Jul 2019) [CODE](https://contactdb. cc.gatech.edu/grasp_ capture.html)
+
+**RMPERMPPE**
+[RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf) (Dec 2016)
+
 ### Spring 2019
 
 **ITWHPEUE2DFAI3D**
