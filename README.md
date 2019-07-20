@@ -29,6 +29,14 @@ To make it more collaberative, hit me up if you see a paper I missed, or if you 
 ## How this is sorted
 The papers gotta be sorted by season. This is to make it sane, there are way too many papers out there and this gives some good arbitrary division. Then they're sorted by month then by first letter. Again, arbitrary division to make locating and organizing them easier. This chronologically based layout also helps with because newer papers usually build off of old ones. Ain't nobody care about yo 5 'refinements' to a paper a year after its release. That's why it's better to put the release date of the FIRST instance of the paper. They also have very short and memorable memonic descriptions. Equivariant Siamese Network is no good. Twins look at a guy and compare notes is good. They should be memorable, vivid, and descriptive to the essence of what makes the project different from the others.
 
+### Season of paper
+
+**An acronymed version of every letter of the paper title**🍒 Emoji descibing the caliber of paper
+
+[The paper title](https://thepaper.url) (Month and Year of paper) [any code if present](https://theurltogetthe.code)
+
+`A short snarky 5th grader level description of the paper`
+
 - Time Dimension
 	- :camera: Single-Shot 	- :movie_camera: Video/Real-Time
 - Spatial Dimensions
