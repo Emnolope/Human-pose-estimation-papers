@@ -34,6 +34,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 - Spatial Dimensions
 	- :door: 2D Models
 	- :package: 3D Models
+	💯👌🍎🍒🌠⭐🌟☄💎✅☑✔
 
 ---
 
