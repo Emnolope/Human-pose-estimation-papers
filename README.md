@@ -31,17 +31,17 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ### Season of paper
 
-**An acronymed version of every letter of the paper title**🍒 Emoji descibing the caliber of paper
+**An acronymed version of every letter of the paper title**🍒 Emoji descibing the calibre of paper
 
 [The paper title](https://thepaper.url) (Month and Year of paper) [any code if present](https://theurltogetthe.code)
 
 `A short snarky 5th grader level description of the paper`
 
 - Time Dimension
-	- :camera: Single-Shot 	- :movie_camera: Video/Real-Time
+	- 📷 Single-Shot 	- 📹 Video/Real-Time
 - Spatial Dimensions
-	- :door: 2D Models
-	- :package: 3D Models
+	- 🚪 2D Models
+	- 📦 3D Models
 	💯👌🍎🍒🌠⭐🌟☄💎✅☑✔
 
 ---
