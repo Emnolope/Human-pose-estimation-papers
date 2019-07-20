@@ -56,7 +56,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ### Spring 2019
 
-**ITWHPEUE2DFAI3D**
+**ITWHPEUE2DFAI3DR**
 
 [In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representation](https://arxiv.org/pdf/1904.03289v1.pdf) (Apr 2019)
 
@@ -68,13 +68,13 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 `Teach something to make stick figures out of sillouettes, so you can make stick figures out of sillouettes`
 
-**SGCNF3DHPR (GOOD)**
+**SGCNF3DHPR** 🍒
 
 [Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://arxiv.org/pdf/1904.03345v1.pdf) (Apr 2019)
 
 ` `
 
-**SSNFHPE (GOOD)**
+**SSNFHPE** 🍒
 
 [Spatial Shortcut Network for Human Pose Estimation](https://arxiv.org/pdf/1904.03141v1.pdf) (Apr 2019)
 
@@ -82,7 +82,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ### Winter 2018
 
-**DBDRD3DHPASFASCI** (GOOD)
+**DBDRD3DHPASFASCI** 🍒
 
 [DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image](https://arxiv.org/pdf/1903.10153v3.pdf) (Mar 2019)
 
@@ -94,7 +94,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-**KPTIPAFCFKSWDTIHP** (GOOD)
+**KPTIPAFCFKSWDTIHP** 🍒
 
 [KPTransfer: improved performance and faster convergence from keypoint subset-wise domain transfer in human pose estimation](https://arxiv.org/pdf/1903.09926v1) (Mar 2019)
 
@@ -110,7 +110,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-**WSDOGARF3DHPE** (GOOD)
+**WSDOGARF3DHPE** 🍒
 
 [Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation](https://arxiv.org/pdf/1903.08839v2) (Mar 2019)
 
@@ -140,7 +140,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-**SSL3DHPUMVG** (GOOD)
+**SSL3DHPUMVG** 🍒
 
 [Self-Supervised Learning of 3D Human Pose using Multi-view Geometry](http://arxiv.org/pdf/1903.02330v1.pdf) (Feb 2019)
 
@@ -176,7 +176,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-**PFMAGHPRN** (GOOD)
+**PFMAGHPRN** 🍒
 
 [PoseFix: Model-agnostic General Human Pose Refinement Network](https://arxiv.org/pdf/1812.03595v3.pdf) (Dec 2018)
 
@@ -290,29 +290,43 @@ f
 
 `Crowd sourced relative depth annotations`
 
+**BNVIO3DHBS**
+
 :package:[BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/pdf/1804.04875v3.pdf) [[CODE]](https://github.com/gulvarol/bodynet) (Apr 2018)
 
 `Make a statue of michealangelo in minecraft`
+
+**UGARF3DHPE**
 
 :package:[Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Helge_Rhodin_Unsupervised_Geometry-Aware_Representation_ECCV_2018_paper.pdf)  [[CODE]](https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning) (Apr 2018)
 
 `It rotates the person with it's eyes. (Insert reference to undressing with eyes here)`
 
+**MPCHPCFMV**
+
 :movie_camera::package: [MonoPerfCap: Human Performance Capture from Monocular Video](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) [[Project]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/) (Mar 2018)
 
 `makes a 3d replica of you like a fully featured action figure`
+
+**LTE3DHPASFASCI**
 
 :package:[Learning to Estimate 3D Human Pose and Shape from a Single Color Image](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Learning_to_Estimate_CVPR_2018_paper.pdf) (May 2018)
 
 `SMPL brand Artist's Mannequin`
 
+**3DHPEINWBAL**
+
 :camera::package: [3D Human Pose Estimation in the Wild by Adversarial Learning](https://arxiv.org/pdf/1803.09722.pdf) (Mar 2018)
 
 ` `
 
+**LCRNMP2DA3DPDINI**
+
 :movie_camera::package: [LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images](https://arxiv.org/pdf/1803.00455.pdf) [[Project]](https://thoth.inrialpes.fr/src/LCR-Net/) (Mar 2018)
 
 ` `
+
+**UALO3DHPF2DJL**
 
 :camera::package: [Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations](https://arxiv.org/pdf/1803.08244.pdf) [[Project page]](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html) (Mar 2018)
 
@@ -321,13 +335,20 @@ f
 <a name="Winter 2017"/>
 
 ### Winter 2017
+
+**ETEROHSAP**
+
 :movie_camera::package: [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) [[CODE]](https://github.com/akanazawa/hmr) (Dec 2017)
 
 ` `
 
+**ETIF3DHPE**
+
 :camera::package:[Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.pdf) (Nov 2017)
 
 ` `
+
+**DPDHPEITW**
 
 :camera::package: [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) [[CODE]](https://github.com/facebookresearch/Densepose) [[Project page]](http://densepose.org) (Feb 2018)
 
@@ -335,17 +356,25 @@ f
 
 ### Fall 2017
 
+**RMP2DPEUPAF**
+
 :movie_camera::door: [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) [[CODE]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) (Apr 2017)
 
 ` `
+
+**APNASACNFHPE**
 
 :camera::door: [Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation](https://arxiv.org/pdf/1705.00389.pdf) (May 2017)
 
 ` `
 
+**ASYEBF3DHPE**
+
 :camera::package: [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (Aug 2017) [[CODE]](https://github.com/una-dinosauria/3d-pose-baseline)
 
 ` `
+
+****
 
 :movie_camera::package: [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) [[CODE]](https://github.com/timctho/VNect-tensorflow) [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/) (Jul 2017)
 
