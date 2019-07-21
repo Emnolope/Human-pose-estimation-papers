@@ -12,6 +12,26 @@ Give the sticks direction (My idea)
 Transfer over 2d skeleton or 2d silouete and 3d skeleton
 2dPoseNet
 Human 3.6M
+
+
+
+swolebot                            https://www.youtube.com/watch?v=kie4wjB1MCw
+paper mario 2                       https://www.youtube.com/watch?v=Y73iUAh56iI
+look ma' no masks                   https://www.youtube.com/watch?v=dd1kN_myNDs
+More advanced pose estimator        https://www.youtube.com/watch?v=F84jaIR5Uxc
+paper mario                         https://www.youtube.com/watch?v=AGm3hF_BlYM
+transfer robot                      https://www.youtube.com/watch?v=ozUzomVQsWc
+Surrounded by photographers         https://www.youtube.com/watch?v=F-00NhYUnH4
+vid2vid synth                       https://www.youtube.com/watch?v=GRQuRcpf5Gc
+GAN generator                       https://www.youtube.com/watch?v=cEBgi6QYDhQ
+FB&NV                               https://www.youtube.com/watch?v=dxOHmvTaCN4
+Beat your past self make the future https://www.youtube.com/watch?v=p831XtyLA5M
+Parkour                             https://www.youtube.com/watch?v=14zkfDTN_qo
+Hike                                https://www.youtube.com/watch?v=wlndIQHtiFw
+transfer learning 2freq             https://www.youtube.com/watch?v=2vnLBb18MuQ
+Body type                           https://www.youtube.com/watch?v=LmYKfU5O_NA
+Open AI dog                         https://www.youtube.com/watch?v=wBrwN4dS-DA
+evolutionary girrafe                https://www.youtube.com/watch?v=kQ2bqz3HPJE
 -->
 
 Other Good Resource:
