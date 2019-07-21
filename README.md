@@ -98,7 +98,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 - [Summer 2019](#summer2019)
 - [Spring 2019](#spring2019)
 - [Winter 2018](#winter2018)
-- [Fall 2018]  (#fall2018  )
+- [Fall 2018](#fall2018  )
 - [Summer 2018](#summer2018)
 - [Spring 2018](#spring2018)
 - [Winter 2017](#winter2017)
