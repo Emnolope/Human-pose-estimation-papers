@@ -18,22 +18,35 @@ Human 3.6M
 `A short snarky 5th grader level description of the paper`
 
 
- **SMAHSAC** 🍒
+ **SMAHSAC** 📦🏋🍒📟
 [Scalable Muscle Actuated Human Simulation and Control](http://mrl.snu.ac.kr/research/ProjectScalable/Paper.pdf) (Jul 2019) [CODE](https://github.com/lsw9021/MASS)
 `Swolebot: throw a bunch of muscles on a skeleton and make it do stuff`
 
 **V2GCCEFRWV**
-[Vid2Game: Controllable Characters Extracted from Real-World Videos](https://arxiv.org/pdf/1904.08379.pdf) (Apr 2019) [any code if present](https://theurltogetthe.code)
-`A short snarky 5th grader level description of the paper`
+[Vid2Game: Controllable Characters Extracted from Real-World Videos](https://arxiv.org/pdf/1904.08379.pdf) (Apr 2019)
+`Turns people into paper mario type characters Uses pose2pose and pose2frame`
 
-`paper mario 2`                         https://www.youtube.com/watch?v=Y73iUAh56iI   Uses pose2pose and pose2frame
-`look ma' no labels`                    https://www.youtube.com/watch?v=dd1kN_myNDs LCFTCCOT Learning Correspondence from the Cycle-Consistency of Time Walks backward and forwards in video to help with prediction Pleatau
-`More advanced pose estimator`          https://www.youtube.com/watch?v=F84jaIR5Uxc 3DHPMWSSL 3D Human Pose Machines with Self-supervised Learning Almost real time
-`paper mario`                           https://www.youtube.com/watch?v=AGm3hF_BlYM TLARROHBH Towards Learning a Realistic Rendering of Human Behavior Copies one person's pose on to another
-`break dancing robot`                   https://www.youtube.com/watch?v=ozUzomVQsWc SFVRLOPSFV SFV: Reinforcement Learning of Physical Skills from Videos Robot plays simon says with a bunch of humans
-`Surrounded by photographers`           https://www.youtube.com/watch?v=F-00NhYUnH4 
-`vid2vid synth`                         https://www.youtube.com/watch?v=GRQuRcpf5Gc VTVS Video to Video Synthesis Generator & 2 Discriminator, Flow map, and gradual growth
-`GAN generator`                         https://www.youtube.com/watch?v=cEBgi6QYDhQ EDN Everybody Dance Now 
+**LCFTCCOT**
+[Learning Correspondence from the Cycle-Consistency of Time](https://arxiv.org/pdf/1903.07593.pdf)(Mar 2019)
+`uses literally no labels, doesn't know what a human is, Walks backward and forwards in video to help with prediction Pleatau`
+
+**3DHPMWSSL**🍒
+[3D Human Pose Machines with Self-supervised Learning](https://arxiv.org/pdf/1901.03798.pdf)(Jan 2019)
+`Almost real time! 2d<->3d<->2d`
+
+**TLARROHBH**
+[Towards Learning a Realistic Rendering of Human Behavior](https://compvis.github.io/hbugen2018/)(Sep 2018)
+`Copies one person's pose on to another paper mario`
+
+**SFVRLOPSFV** 📹📦🏋🍒📟
+[SFV: Reinforcement Learning of Physical Skills from Videos]
+`Robot plays simon says with a bunch of humans: break dancing robot`
+
+`Surrounded by photographers`           https://www.youtube.com/watch?v=F-00NhYUnH4
+
+
+VTVS Video to Video Synthesis Generator & 2 Discriminator, Flow map, and gradual growth`vid2vid synth`                         https://www.youtube.com/watch?v=GRQuRcpf5Gc 
+EDN Everybody Dance Now `GAN generator`                         https://www.youtube.com/watch?v=cEBgi6QYDhQ 
 `FB&NV`                                 https://www.youtube.com/watch?v=dxOHmvTaCN4
 `Beat your past self make the future`   https://www.youtube.com/watch?v=p831XtyLA5M
 `Parkour`                               https://www.youtube.com/watch?v=14zkfDTN_qo
@@ -80,7 +93,16 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 	- 🕺 Other type of parameterized body
 - Quality
 	- 🍒 Good paper
-	💯👌🍎🍒🌠⭐🌟☄💎✅☑✔
+	💯👌🍎🍒🌠⭐🌟☄💎✅☑✔📟
+
+### Summer 2019
+### Spring 2019
+### Winter 2018
+### Fall 2018
+### Summer 2018
+### Spring 2018
+### Winter 2017
+### Fall 2017
 
 ---
 
@@ -126,8 +148,6 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-### Winter 2018
-
 **DBDRD3DHPASFASCI** 🍒
 
 [DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image](https://arxiv.org/pdf/1903.10153v3.pdf) (Mar 2019)
@@ -161,6 +181,8 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 [Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation](https://arxiv.org/pdf/1903.08839v2) (Mar 2019)
 
 ` `
+
+### Winter 2018
 
 **CFAFHPE**
 
@@ -378,9 +400,8 @@ f
 
 ` `
 
-<a name="Winter 2017"/>
 
-### Winter 2017
+### Winter 2017 <a name="Winter 2017"/>
 
 **ETEROHSAP**📹📦
 
