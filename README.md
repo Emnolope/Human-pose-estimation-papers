@@ -16,7 +16,6 @@ Human 3.6M
 [The paper title](https://thepaper.url) (Month and Year of paper) [any code if present](https://theurltogetthe.code)
 `A short snarky 5th grader level description of the paper`
 
-
  **SMAHSAC** 📦🏋🍒📟
 [Scalable Muscle Actuated Human Simulation and Control](http://mrl.snu.ac.kr/research/ProjectScalable/Paper.pdf) (Jul 2019) [CODE](https://github.com/lsw9021/MASS)
 `Swolebot: throw a bunch of muscles on a skeleton and make it do stuff`
@@ -38,14 +37,24 @@ Human 3.6M
 `Copies one person's pose on to another paper mario`
 
 **SFVRLOPSFV** 📹📦🏋🍒📟
-[SFV: Reinforcement Learning of Physical Skills from Videos]
+[SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/index.html)(Dec 2018)
 `Robot plays simon says with a bunch of humans: break dancing robot`
 
-`Surrounded by photographers`           https://www.youtube.com/watch?v=F-00NhYUnH4
+**AVUNFCAASG**
+[A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/)(Jun 2018)
+`Surrounded by photographers`
 
+**VTVS**
+[Video to Video Synthesis](https://tcwang0509.github.io/vid2vid/)
+`Video to Video Synthesis 1 Generator & 2 Discriminator, Flow map, and gradual growth`                         
 
-VTVS Video to Video Synthesis Generator & 2 Discriminator, Flow map, and gradual growth`vid2vid synth`                         https://www.youtube.com/watch?v=GRQuRcpf5Gc 
-EDN Everybody Dance Now `GAN generator`                         https://www.youtube.com/watch?v=cEBgi6QYDhQ 
+**EDN**
+[Everybody Dance Now](https://arxiv.org/pdf/1808.07371.pdf) (Aug 2018)
+`GAN generator`
+
+**DPDHPEINW**
+[CODE](https://github.com/facebookresearch/DensePose)
+
 `FB&NV`                                 https://www.youtube.com/watch?v=dxOHmvTaCN4
 `Beat your past self make the future`   https://www.youtube.com/watch?v=p831XtyLA5M
 `Parkour`                               https://www.youtube.com/watch?v=14zkfDTN_qo
@@ -115,7 +124,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 **TMGC**📟
 
-[Towards Markerless Grasp Capture](https://arxiv.org/pdf/1907.07388.pdf) (Jul 2019) [CODE](https://contactdb. cc.gatech.edu/grasp_ capture.html)
+[Towards Markerless Grasp Capture](https://arxiv.org/pdf/1907.07388.pdf) (Jul 2019) [CODE](https://contactdb.cc.gatech.edu/grasp_ capture.html)
 
 ` `
 
