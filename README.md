@@ -95,14 +95,15 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 	- 🍒 Good paper
 	💯👌🍎🍒🌠⭐🌟☄💎✅☑✔📟
 
-### Summer 2019
-### Spring 2019
-### Winter 2018
-### Fall 2018
-### Summer 2018
-### Spring 2018
-### Winter 2017
-### Fall 2017
+##### Table Of Contents
+- Summer 2019
+- Spring 2019
+- Winter 2018
+- Fall 2018
+- Summer 2018
+- Spring 2018
+- Winter 2017
+- Fall 2017
 
 ---
 
