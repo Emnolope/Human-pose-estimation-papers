@@ -1,5 +1,5 @@
 `
-<--! VR GOALS, create cheapish, LED-less body tracking solution. raspberry pi based
+<!--- VR GOALS, create cheapish, LED-less body tracking solution. raspberry pi based
 teach mathematics on the internet with the 3d medium
 say hi to everyone
 create a new form a 3 dimensional mathematics
