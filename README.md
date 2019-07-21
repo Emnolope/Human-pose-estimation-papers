@@ -1,4 +1,3 @@
-`
 <!--- VR GOALS, create cheapish, LED-less body tracking solution. raspberry pi based
 teach mathematics on the internet with the 3d medium
 say hi to everyone
@@ -506,7 +505,7 @@ f
 
 ` `
 
-### 2014 & 2015 <a name="20142015"></a>)
+### 2014 & 2015 <a name="20142015"></a>
 
 **STMFHPE**📹📦
 
