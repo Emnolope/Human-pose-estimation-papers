@@ -95,21 +95,23 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 	- 🍒 Good paper
 	💯👌🍎🍒🌠⭐🌟☄💎✅☑✔📟
 
-##### Table Of Contents
-- Summer 2019
-- Spring 2019
-- Winter 2018
-- Fall 2018
-- Summer 2018
-- Spring 2018
-- Winter 2017
-- Fall 2017
+#### Table Of Contents
+- [Summer 2019](#summer2019)
+- [Spring 2019](#spring2019)
+- [Winter 2018](#winter2018)
+- [Fall 2018]  (#fall2018  )
+- [Summer 2018](#summer2018)
+- [Spring 2018](#spring2018)
+- [Winter 2017](#winter2017)
+- [Fall 2017]  (#fall2017  )
+- [2016]       (#2016      )
+- [2014 & 2015](#20142015  )
 
 ---
 
 ## Projects and papers
 
-### Summer 2019
+### Summer 2019 (<a name="summer2019"></a>)
 
 **TMGC**📟
 
@@ -123,7 +125,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-### Spring 2019
+### Spring 2019 (<a name="spring2019"></a>)
 
 **ITWHPEUE2DFAI3DR**
 
@@ -183,7 +185,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-### Winter 2018
+### Winter 2018 (<a name="winter2018"></a>)
 
 **CFAFHPE**
 
@@ -251,7 +253,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-### Fall 2018
+### Fall 2018 (<a name="fall2018"></a>)
 
 **D3DPEUPBP**📷📦
 
@@ -301,7 +303,7 @@ f
 
 `They block their face and body with cheap photoshop techniques, then the machine has to "x-ray" through all that.`
 
-### Summer 2018
+### Summer 2018 (<a name="summer2018"></a>)
 
 **NBFUDLAMBHPASE**📷📦📟
 
@@ -345,7 +347,7 @@ f
 
 `Anderson Silva's broken bent leg`
 
-### Spring 2018
+### Spring 2018 (<a name="spring2018"></a>)
 
 **DRP3DDRI3DHPE**📷📦
 
@@ -402,7 +404,7 @@ f
 ` `
 
 
-### Winter 2017 <a name="Winter 2017"/>
+### Winter 2017 (<a name="winter2018"></a>)
 
 **ETEROHSAP**📹📦
 
@@ -422,7 +424,7 @@ f
 
 ` `
 
-### Fall 2017
+### Fall 2017 (<a name="fall2017"></a>)
 
 **RMP2DPEUPAF**
 
@@ -460,7 +462,7 @@ f
 
 ` `
 
-### 2016
+### 2016 (<a name="2016"></a>)
 
 **LTF2DA3DICFMBPE**📷📦
 
@@ -504,7 +506,7 @@ f
 
 ` `
 
-### 2014 & 2015
+### 2014 & 2015 (<a name="20142015"></a>)
 
 **STMFHPE**📹📦
 
