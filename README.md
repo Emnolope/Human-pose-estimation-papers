@@ -13,26 +13,36 @@ Transfer over 2d skeleton or 2d silouete and 3d skeleton
 2dPoseNet
 Human 3.6M
 
+**ACRONYM EVERY LETTER OF PAPER**🍒 Emoji
+[The paper title](https://thepaper.url) (Month and Year of paper) [any code if present](https://theurltogetthe.code)
+`A short snarky 5th grader level description of the paper`
 
 
-swolebot                            https://www.youtube.com/watch?v=kie4wjB1MCw
-paper mario 2                       https://www.youtube.com/watch?v=Y73iUAh56iI
-look ma' no masks                   https://www.youtube.com/watch?v=dd1kN_myNDs
-More advanced pose estimator        https://www.youtube.com/watch?v=F84jaIR5Uxc
-paper mario                         https://www.youtube.com/watch?v=AGm3hF_BlYM
-transfer robot                      https://www.youtube.com/watch?v=ozUzomVQsWc
-Surrounded by photographers         https://www.youtube.com/watch?v=F-00NhYUnH4
-vid2vid synth                       https://www.youtube.com/watch?v=GRQuRcpf5Gc
-GAN generator                       https://www.youtube.com/watch?v=cEBgi6QYDhQ
-FB&NV                               https://www.youtube.com/watch?v=dxOHmvTaCN4
-Beat your past self make the future https://www.youtube.com/watch?v=p831XtyLA5M
-Parkour                             https://www.youtube.com/watch?v=14zkfDTN_qo
-Hike                                https://www.youtube.com/watch?v=wlndIQHtiFw
-transfer learning 2freq             https://www.youtube.com/watch?v=2vnLBb18MuQ
-Body type                           https://www.youtube.com/watch?v=LmYKfU5O_NA
-Open AI dog                         https://www.youtube.com/watch?v=wBrwN4dS-DA
-evolutionary girrafe                https://www.youtube.com/watch?v=kQ2bqz3HPJE
-RadioLab 2                          https://www.youtube.com/watch?v=kBFMsY5ZP0o
+ **SMAHSAC** 🍒
+[Scalable Muscle Actuated Human Simulation and Control](http://mrl.snu.ac.kr/research/ProjectScalable/Paper.pdf) (Jul 2019) [CODE](https://github.com/lsw9021/MASS)
+`Swolebot: throw a bunch of muscles on a skeleton and make it do stuff`
+
+**V2GCCEFRWV**
+[Vid2Game: Controllable Characters Extracted from Real-World Videos](https://arxiv.org/pdf/1904.08379.pdf) (Apr 2019) [any code if present](https://theurltogetthe.code)
+`A short snarky 5th grader level description of the paper`
+
+`paper mario 2`                         https://www.youtube.com/watch?v=Y73iUAh56iI   Uses pose2pose and pose2frame
+`look ma' no labels`                    https://www.youtube.com/watch?v=dd1kN_myNDs LCFTCCOT Learning Correspondence from the Cycle-Consistency of Time Walks backward and forwards in video to help with prediction Pleatau
+`More advanced pose estimator`          https://www.youtube.com/watch?v=F84jaIR5Uxc 3DHPMWSSL 3D Human Pose Machines with Self-supervised Learning Almost real time
+`paper mario`                           https://www.youtube.com/watch?v=AGm3hF_BlYM TLARROHBH Towards Learning a Realistic Rendering of Human Behavior Copies one person's pose on to another
+`break dancing robot`                   https://www.youtube.com/watch?v=ozUzomVQsWc SFVRLOPSFV SFV: Reinforcement Learning of Physical Skills from Videos Robot plays simon says with a bunch of humans
+`Surrounded by photographers`           https://www.youtube.com/watch?v=F-00NhYUnH4 
+`vid2vid synth`                         https://www.youtube.com/watch?v=GRQuRcpf5Gc VTVS Video to Video Synthesis Generator & 2 Discriminator, Flow map, and gradual growth
+`GAN generator`                         https://www.youtube.com/watch?v=cEBgi6QYDhQ EDN Everybody Dance Now 
+`FB&NV`                                 https://www.youtube.com/watch?v=dxOHmvTaCN4
+`Beat your past self make the future`   https://www.youtube.com/watch?v=p831XtyLA5M
+`Parkour`                               https://www.youtube.com/watch?v=14zkfDTN_qo
+`Hike`                                  https://www.youtube.com/watch?v=wlndIQHtiFw
+`transfer learning 2freq`               https://www.youtube.com/watch?v=2vnLBb18MuQ
+`Body type`                             https://www.youtube.com/watch?v=LmYKfU5O_NA
+`Open AI dog`                           https://www.youtube.com/watch?v=wBrwN4dS-DA
+`evolutionary girrafe`                  https://www.youtube.com/watch?v=kQ2bqz3HPJE
+`RadioLab 2`                            https://www.youtube.com/watch?v=kBFMsY5ZP0o
 -->
 
 Other Good Resource:
@@ -53,17 +63,23 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ### Season of paper
 
-**ACRONYM EVERY LETTER OF PAPER**🍒 Emoji descibing the calibre of paper
+**ACRONYM EVERY LETTER OF PAPER**📷📹🚪📦🍒 Emoji descibing the calibre of paper
 
 [The paper title](https://thepaper.url) (Month and Year of paper) [any code if present](https://theurltogetthe.code)
 
 `A short snarky 5th grader level description of the paper`
 
 - Time Dimension
-	- 📷 Single-Shot 	- 📹 Video/Real-Time
+	- 📷 Single-Shot
+	- 📹 Video/Real-Time
 - Spatial Dimensions
 	- 🚪 2D Models
 	- 📦 3D Models
+- Physics
+	- 🏋 Physics Ragdoll
+	- 🕺 Other type of parameterized body
+- Quality
+	- 🍒 Good paper
 	💯👌🍎🍒🌠⭐🌟☄💎✅☑✔
 
 ---
