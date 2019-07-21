@@ -103,14 +103,15 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 - [Spring 2018](#spring2018)
 - [Winter 2017](#winter2017)
 - [Fall 2017](#fall2017)
-- [2016](#2016)
-- [2014 & 2015](#20142015)
+- [2016](#y2016)
+- [2014 & 2015](#201415)
 
 ---
 
 ## Projects and papers
 
-### Summer 2019 <a name="summer2019"></a>
+<a name="summer2019"></a>
+### Summer 2019
 
 **TMGC**📟
 
@@ -124,7 +125,8 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-### Spring 2019 <a name="spring2019"></a>
+<a name="spring2019"></a>
+### Spring 2019
 
 **ITWHPEUE2DFAI3DR**
 
@@ -184,7 +186,8 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-### Winter 2018 <a name="winter2018"></a>
+<a name="winter2018"></a>
+### Winter 2018 
 
 **CFAFHPE**
 
@@ -252,7 +255,8 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-### Fall 2018 <a name="fall2018"></a>
+<a name="fall2018"></a>
+### Fall 2018
 
 **D3DPEUPBP**📷📦
 
@@ -275,7 +279,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 **DLCMFHPE**📷🚪
 
 [Deeply Learned Compositional Models for Human Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Tang_Deeply_Learned_Compositional_ECCV_2018_paper.pdf) (Sep 2018)
-f
+
 `Take the human body, and shove it into code blocks`
 
 **DPT**🚪
@@ -302,7 +306,8 @@ f
 
 `They block their face and body with cheap photoshop techniques, then the machine has to "x-ray" through all that.`
 
-### Summer 2018 <a name="summer2018"></a>
+<a name="summer2018"></a>
+### Summer 2018
 
 **NBFUDLAMBHPASE**📷📦📟
 
@@ -346,7 +351,8 @@ f
 
 `Anderson Silva's broken bent leg`
 
-### Spring 2018 <a name="spring2018"></a>
+<a name="spring2018"></a>
+### Spring 2018
 
 **DRP3DDRI3DHPE**📷📦
 
@@ -402,8 +408,8 @@ f
 
 ` `
 
-
-### Winter 2017 <a name="winter2018"></a>
+<a name="winter2018"></a>
+### Winter 2017
 
 **ETEROHSAP**📹📦
 
@@ -423,7 +429,8 @@ f
 
 ` `
 
-### Fall 2017 <a name="fall2017"></a>
+<a name="fall2017"></a>
+### Fall 2017
 
 **RMP2DPEUPAF**
 
@@ -461,7 +468,8 @@ f
 
 ` `
 
-### 2016 <a name="2016"></a>
+<a name="y2016"></a>
+### 2016
 
 **LTF2DA3DICFMBPE**📷📦
 
@@ -505,7 +513,8 @@ f
 
 ` `
 
-### 2014 & 2015 <a name="20142015"></a>
+<a name="201415"></a>
+### 2014 & 2015
 
 **STMFHPE**📹📦
 
