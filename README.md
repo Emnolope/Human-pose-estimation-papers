@@ -32,6 +32,7 @@ transfer learning 2freq             https://www.youtube.com/watch?v=2vnLBb18MuQ
 Body type                           https://www.youtube.com/watch?v=LmYKfU5O_NA
 Open AI dog                         https://www.youtube.com/watch?v=wBrwN4dS-DA
 evolutionary girrafe                https://www.youtube.com/watch?v=kQ2bqz3HPJE
+RadioLab 2                          https://www.youtube.com/watch?v=kBFMsY5ZP0o
 -->
 
 Other Good Resource:
