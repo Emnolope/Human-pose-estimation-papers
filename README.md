@@ -55,15 +55,45 @@ Human 3.6M
 **DPDHPEINW**
 [CODE](https://github.com/facebookresearch/DensePose)
 
-`FB&NV`                                 https://www.youtube.com/watch?v=dxOHmvTaCN4
-`Beat your past self make the future`   https://www.youtube.com/watch?v=p831XtyLA5M
-`Parkour`                               https://www.youtube.com/watch?v=14zkfDTN_qo
-`Hike`                                  https://www.youtube.com/watch?v=wlndIQHtiFw
-`transfer learning 2freq`               https://www.youtube.com/watch?v=2vnLBb18MuQ
-`Body type`                             https://www.youtube.com/watch?v=LmYKfU5O_NA
-`Open AI dog`                           https://www.youtube.com/watch?v=wBrwN4dS-DA
-`evolutionary girrafe`                  https://www.youtube.com/watch?v=kQ2bqz3HPJE
-`RadioLab 2`                            https://www.youtube.com/watch?v=kBFMsY5ZP0o
+**DPDHPEITW**
+[DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434) (Feb 2018)
+`Turn people into minecraft skins`
+
+
+**ECVMAC**
+[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/pdf/1710.03748) (Oct 2017)
+`Sumo wrestling robots`
+
+
+**EOLBIRE**
+[Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286) (Jul 2017)
+`A stick figure doing parkour, Deepmind`
+
+
+**PFNNFCC**
+[Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/page/phase-functioned-neural-networks-character-control) (Apr 2017)
+`Left right, left right, but for video game characters`
+
+
+**DLDLSUHDRL**
+[DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/index.html) (Jul 2017)
+`Brains and Brawn, two level archetecture`
+
+**DOCBTCIO**
+[Discovery of complex behaviors through contact-invariant optimization](https://homes.cs.washington.edu/~todorov/papers/MordatchSIGGRAPH12.pdf) (Jul 2012)
+`Adventure time characters help each other out`
+
+**TALSUDRL**
+[Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf)
+`Open AI's Bipedal Walker. Like a Kuriboh on two chopsticks`
+
+**FMBLFBC**
+[Flexible Muscle-Based Locomotion for Bipedal Creatures](https://www.goatstream.com/research/papers/SA2013/)(Nov 13)
+`Watch my girrafe sway`
+
+**TWHPEURS**
+[Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/)
+`Ok, so this is seriously magic, I don't know how to describe it sassy like`
 -->
 
 Other Good Resource:
