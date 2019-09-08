@@ -1,7 +1,8 @@
-<!--- VR GOALS, create cheapish, LED-less body tracking solution. raspberry pi based
+<!---
+VR GOALS, create cheapish, LED-less body tracking solution. raspberry pi based
 teach mathematics on the internet with the 3d medium
-say hi to everyone
-create a new form a 3 dimensional mathematics
+Say, Hi! to everyone
+Make mathematics 3d dimensional.
 be productive while in the virtual space
 revolutionize speech to text for VR applications
 find a way to view webpages in VR
@@ -12,7 +13,6 @@ Transfer over 2d skeleton or 2d silouete and 3d skeleton
 2dPoseNet
 Human 3.6M
 -->
-
 Other Good Resource:
 
 [Code](https://paperswithcode.com/task/pose-estimation)
@@ -21,13 +21,13 @@ Other Good Resource:
 `
 
 # Human Pose Estimation from RGB Camera - The repo
-In recent years, tremendous amount of progress is being made in the field of Human Pose Estimation from RGB Camera, which is an interdisciplinary field that fuses computer vision, deep/machine learning and anatomy. This repo is for my study notes and will be used as a place for triaging new research papers. 
+Pose machines are advancing at an alarming rate. Basically you take a picture/video/depth sensor of somebody, and figure out their body shape! It's got applications in VR, medical, automotive. It's all around useful! This repo is for my study notes and will be used as a place for triaging new research papers. 
 
 ## Get Involved
-To make it more collaberative, hit me up if you see a paper I missed, or if you have a suggestion for something interesting.
+Hit me up with whatever you find interesting, just drop an issue I won't mind.
 
 ## How this is sorted
-The papers gotta be sorted by season. This is to make it sane, there are way too many papers out there and this gives some good arbitrary division. Then they're sorted by month then by first letter. Again, arbitrary division to make locating and organizing them easier. This chronologically based layout also helps with because newer papers usually build off of old ones. Ain't nobody care about yo 5 'refinements' to a paper a year after its release. That's why it's better to put the release date of the FIRST instance of the paper. They also have very short and memorable memonic descriptions. Equivariant Siamese Network is no good. Twins look at a guy and compare notes is good. They should be memorable, vivid, and descriptive to the essence of what makes the project different from the others.
+The papers are sorted by season for sanity purposes. More recent papers TEND to be more advanced than previous ones, but I've seen this rule broken too. After season they're sorted by Month, then by first letter in the Acronym. The date of a paper it's FIRST version. That means if a paper is refined 5 years later, it's still 5 years old.They also have very short and memorable memonic descriptions. They should be memorable, vivid, and descriptive to the essence of what makes the project different from the others. "Muscle Actuated Human Simulation" BAD "Ragdoll skeleton that's buff" GOOD.
 
 ### Season of paper
 
