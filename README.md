@@ -391,6 +391,12 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 `makes a 3d replica of you like a fully featured action figure`
 
+**TWHPEURS**
+
+[Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/) (Jun 18)
+
+`Ok, so this is seriously magic, I don't know how to describe it sassy like`
+
 **LTE3DHPASFASCI**📦
 
 [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Learning_to_Estimate_CVPR_2018_paper.pdf) (May 2018)
@@ -570,12 +576,6 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 [Flexible Muscle-Based Locomotion for Bipedal Creatures](https://www.goatstream.com/research/papers/SA2013/)(Nov 13)
 
 `Watch my girrafe sway`
-
-**TWHPEURS**
-
-[Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/)
-
-`Ok, so this is seriously magic, I don't know how to describe it sassy like`
 
 ---
 
