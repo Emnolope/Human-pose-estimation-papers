@@ -11,22 +11,7 @@ Give the sticks direction (My idea)
 Transfer over 2d skeleton or 2d silouete and 3d skeleton
 2dPoseNet
 Human 3.6M
-
-**ACRONYM EVERY LETTER OF PAPER**🍒 Emoji
-[The paper title](https://thepaper.url) (Month and Year of paper) [any code if present](https://theurltogetthe.code)
-`A short snarky 5th grader level description of the paper`
-
- **SMAHSAC** 📦🏋🍒📟
-[Scalable Muscle Actuated Human Simulation and Control](http://mrl.snu.ac.kr/research/ProjectScalable/Paper.pdf) (Jul 2019) [CODE](https://github.com/lsw9021/MASS)
-`Swolebot: throw a bunch of muscles on a skeleton and make it do stuff`
-
-**V2GCCEFRWV**
-[Vid2Game: Controllable Characters Extracted from Real-World Videos](https://arxiv.org/pdf/1904.08379.pdf) (Apr 2019)
-`Turns people into paper mario type characters Uses pose2pose and pose2frame`
-
-**LCFTCCOT**
-[Learning Correspondence from the Cycle-Consistency of Time](https://arxiv.org/pdf/1903.07593.pdf)(Mar 2019)
-`uses literally no labels, doesn't know what a human is, Walks backward and forwards in video to help with prediction Pleatau`
+-->
 
 **3DHPMWSSL**🍒
 [3D Human Pose Machines with Self-supervised Learning](https://arxiv.org/pdf/1901.03798.pdf)(Jan 2019)
@@ -119,6 +104,7 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 [The paper title](https://thepaper.url) (Month and Year of paper) [any code if present](https://theurltogetthe.code)
 
 `A short snarky 5th grader level description of the paper`
+ 
 
 - Time Dimension
 	- 📷 Single-Shot
@@ -152,15 +138,15 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 <a name="summer2019"></a>
 ### Summer 2019
 
+**SMAHSAC** 📦🏋🍒📟
+
+[Scalable Muscle Actuated Human Simulation and Control](http://mrl.snu.ac.kr/research/ProjectScalable/Paper.pdf) (Jul 2019) [CODE](https://github.com/lsw9021/MASS)
+
+`Swolebot: throw a bunch of muscles on a skeleton and make it do stuff`
+
 **TMGC**📟
 
 [Towards Markerless Grasp Capture](https://arxiv.org/pdf/1907.07388.pdf) (Jul 2019) [CODE](https://contactdb.cc.gatech.edu/grasp_ capture.html)
-
-` `
-
-**RMPERMPPE**
-
-[RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf) (Dec 2016)
 
 ` `
 
@@ -191,6 +177,12 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
+**V2GCCEFRWV**
+
+[Vid2Game: Controllable Characters Extracted from Real-World Videos](https://arxiv.org/pdf/1904.08379.pdf) (Apr 2019)
+
+`Turns people into paper mario type characters Uses pose2pose and pose2frame`
+
 **DBDRD3DHPASFASCI** 🍒
 
 [DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image](https://arxiv.org/pdf/1903.10153v3.pdf) (Mar 2019)
@@ -206,6 +198,14 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 **KPTIPAFCFKSWDTIHP** 🍒
 
 [KPTransfer: improved performance and faster convergence from keypoint subset-wise domain transfer in human pose estimation](https://arxiv.org/pdf/1903.09926v1) (Mar 2019)
+
+` `
+
+**LCFTCCOT**
+
+[Learning Correspondence from the Cycle-Consistency of Time](https://arxiv.org/pdf/1903.07593.pdf) (Mar 2019)
+
+`uses literally no labels, doesn't know what a human is, Walks backward and forwards in video to help with prediction Pleatau`
 
 **PPCFEHPE**
 
