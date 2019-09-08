@@ -432,12 +432,6 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
-**DPDHPEITW**📷📦
-
-[DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) [[CODE]](https://github.com/facebookresearch/Densepose) [[Project page]](http://densepose.org) (Feb 2018)
-
-` `
-
 <a name="fall2017"></a>
 ### Fall 2017
 
@@ -572,6 +566,18 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 [Discovery of complex behaviors through contact-invariant optimization](https://homes.cs.washington.edu/~todorov/papers/MordatchSIGGRAPH12.pdf) (Jul 2012)
 
 `Adventure time characters help each other out`
+
+**FMBLFBC**
+
+[Flexible Muscle-Based Locomotion for Bipedal Creatures](https://www.goatstream.com/research/papers/SA2013/)(Nov 13)
+
+`Watch my girrafe sway`
+
+**TWHPEURS**
+
+[Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/)
+
+`Ok, so this is seriously magic, I don't know how to describe it sassy like`
 
 ---
 
