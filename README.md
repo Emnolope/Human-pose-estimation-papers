@@ -13,8 +13,6 @@ Transfer over 2d skeleton or 2d silouete and 3d skeleton
 Human 3.6M
 -->
 
--->
-
 Other Good Resource:
 
 [Code](https://paperswithcode.com/task/pose-estimation)
