@@ -13,72 +13,6 @@ Transfer over 2d skeleton or 2d silouete and 3d skeleton
 Human 3.6M
 -->
 
-**3DHPMWSSL**🍒
-[3D Human Pose Machines with Self-supervised Learning](https://arxiv.org/pdf/1901.03798.pdf)(Jan 2019)
-`Almost real time! 2d<->3d<->2d`
-
-**TLARROHBH**
-[Towards Learning a Realistic Rendering of Human Behavior](https://compvis.github.io/hbugen2018/)(Sep 2018)
-`Copies one person's pose on to another paper mario`
-
-**SFVRLOPSFV** 📹📦🏋🍒📟
-[SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/index.html)(Dec 2018)
-`Robot plays simon says with a bunch of humans: break dancing robot`
-
-**AVUNFCAASG**
-[A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/)(Jun 2018)
-`Surrounded by photographers`
-
-**VTVS**
-[Video to Video Synthesis](https://tcwang0509.github.io/vid2vid/)
-`Video to Video Synthesis 1 Generator & 2 Discriminator, Flow map, and gradual growth`                         
-
-**EDN**
-[Everybody Dance Now](https://arxiv.org/pdf/1808.07371.pdf) (Aug 2018)
-`GAN generator`
-
-**DPDHPEINW**
-[CODE](https://github.com/facebookresearch/DensePose)
-
-**DPDHPEITW**
-[DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434) (Feb 2018)
-`Turn people into minecraft skins`
-
-
-**ECVMAC**
-[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/pdf/1710.03748) (Oct 2017)
-`Sumo wrestling robots`
-
-
-**EOLBIRE**
-[Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286) (Jul 2017)
-`A stick figure doing parkour, Deepmind`
-
-
-**PFNNFCC**
-[Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/page/phase-functioned-neural-networks-character-control) (Apr 2017)
-`Left right, left right, but for video game characters`
-
-
-**DLDLSUHDRL**
-[DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/index.html) (Jul 2017)
-`Brains and Brawn, two level archetecture`
-
-**DOCBTCIO**
-[Discovery of complex behaviors through contact-invariant optimization](https://homes.cs.washington.edu/~todorov/papers/MordatchSIGGRAPH12.pdf) (Jul 2012)
-`Adventure time characters help each other out`
-
-**TALSUDRL**
-[Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf)
-`Open AI's Bipedal Walker. Like a Kuriboh on two chopsticks`
-
-**FMBLFBC**
-[Flexible Muscle-Based Locomotion for Bipedal Creatures](https://www.goatstream.com/research/papers/SA2013/)(Nov 13)
-`Watch my girrafe sway`
-
-**TWHPEURS**
-[Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/)
-`Ok, so this is seriously magic, I don't know how to describe it sassy like`
 -->
 
 Other Good Resource:
@@ -264,6 +198,12 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
+**3DHPMWSSL**🍒
+
+[3D Human Pose Machines with Self-supervised Learning](https://arxiv.org/pdf/1901.03798.pdf) (Jan 2019)
+
+`Almost real time! 2d<->3d<->2d`
+
 **HPEUMPAEM**
 
 [Human Pose Estimation using Motion Priors and Ensemble Models](https://arxiv.org/pdf/1901.09156v1) (Jan 2019)
@@ -338,6 +278,12 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 [3D Human Pose Estimation with Siamese Equivariant Embedding](https://arxiv.org/pdf/1809.07217.pdf) (Sep 2018)
 
 `Twins compare their answers after doing their math homework. (Homework refers to the 3d pose estimation)`
+
+**TLARROHBH**
+
+[Towards Learning a Realistic Rendering of Human Behavior](https://compvis.github.io/hbugen2018/)(Sep 2018)
+
+`Copies one person's pose on to another paper mario`
 
 **SOAWVFT2018ECCVPTCO3DHPE**📷📦
 
