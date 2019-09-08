@@ -234,6 +234,12 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
+**SFVRLOPSFV** 📹📦🏋🍒📟
+
+[SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/index.html) (Dec 2018)
+
+`Robot plays simon says with a bunch of humans: break dancing robot`
+
 <a name="fall2018"></a>
 ### Fall 2018
 
@@ -294,11 +300,23 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 <a name="summer2018"></a>
 ### Summer 2018
 
+**EDN**
+
+[Everybody Dance Now](https://arxiv.org/pdf/1808.07371.pdf) (Aug 2018)
+
+`GAN generator`
+
 **NBFUDLAMBHPASE**📷📦📟
 
 [Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) [[CODE]](http://github.com/mohomran/neural_body_fitting) (Aug 2018)
 
 `The circle of 3D pose estimation. 2d Image -> 2d Color Me Rad guy -> 3d pudgy man -> photograph of said man -> 2d Image`
+
+**VTVS**
+
+[Video to Video Synthesis](https://tcwang0509.github.io/vid2vi (Aug 2018)
+
+`Video to Video Synthesis 1 Generator & 2 Discriminator, Flow map, and gradual growth`                         
 
 **SSMP3DBPEFMRGBI**📷📦
 
@@ -317,6 +335,12 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 [Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture](https://arxiv.org/pdf/1808.01525v1.pdf) (Aug 2018)
 
 `use lots of cameras to make just one camera better, and do this over and over and over again`
+
+**AVUNFCAASG**
+
+[A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/)(Jun 2018)
+
+`Surrounded by photographers`
 
 **3DHPEWRN**📷📦
 
@@ -417,21 +441,39 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 <a name="fall2017"></a>
 ### Fall 2017
 
+**ECVMAC**
+
+[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/pdf/1710.03748) (Oct 2017)
+
+`Sumo wrestling robots`
+
+**ASYEBF3DHPE**
+
+📷📦 [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (Aug 2017) [[CODE]](https://github.com/una-dinosauria/3d-pose-baseline)
+
+` `
+
 **RMP2DPEUPAF**
 
 📹🚪 [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) [[CODE]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) (Apr 2017)
 
 ` `
 
+**DLDLSUHDRL**
+
+[DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/index.html) (Jul 2017)
+
+`Brains and Brawn, two level archetecture`
+
+**EOLBIRE**
+
+[Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286) (Jul 2017)
+
+`A stick figure doing parkour, Deepmind`
+
 **APNASACNFHPE**
 
 📷🚪 [Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation](https://arxiv.org/pdf/1705.00389.pdf) (May 2017)
-
-` `
-
-**ASYEBF3DHPE**
-
-📷📦 [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (Aug 2017) [[CODE]](https://github.com/una-dinosauria/3d-pose-baseline)
 
 ` `
 
@@ -486,6 +528,18 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 
 ` `
 
+**PFNNFCC**
+
+[Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/page/phase-functioned-neural-networks-character-control) (Apr 2017)
+
+`Left right, left right, but for video game characters`
+
+**TALSUDRL**
+
+[Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf)
+
+`Open AI's Bipedal Walker. Like a Kuriboh on two chopsticks`
+
 **SHNFHPE**📷🚪
 
 [Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/pdf/1603.06937.pdf) [[CODE]](https://github.com/umich-vl/pose-hg-demo) (Mar 2016)
@@ -512,6 +566,12 @@ The papers gotta be sorted by season. This is to make it sane, there are way too
 [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video](https://arxiv.org/pdf/1511.09439.pdf) [[Project]](http://cis.upenn.edu/~xiaowz/monocap.html) (Nov 2015)
 
 ` `
+
+**DOCBTCIO**
+
+[Discovery of complex behaviors through contact-invariant optimization](https://homes.cs.washington.edu/~todorov/papers/MordatchSIGGRAPH12.pdf) (Jul 2012)
+
+`Adventure time characters help each other out`
 
 ---
 
