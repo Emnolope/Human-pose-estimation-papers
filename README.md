@@ -12,6 +12,33 @@ Give the sticks direction (My idea)
 Transfer over 2d skeleton or 2d silouete and 3d skeleton
 2dPoseNet
 Human 3.6M
+
+**HSUSV3DHSPAHPEWHOIAPC**
+Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense
+https://arxiv.org/pdf/1909.01507.pdf
+
+**CVFF3DHPE**
+Cross View Fusion for 3D Human Pose Estimation
+https://arxiv.org/pdf/1909.01203.pdf
+
+**LVFUMI**
+Learning Visual Features Under Motion Invariance
+https://arxiv.org/pdf/1909.00350.pdf
+
+**ECM3DCOHSHMUAEC**
+EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera
+https://arxiv.org/pdf/1908.11505.pdf
+
+**BUHRNFMPPE**
+Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation
+https://arxiv.org/pdf/1908.10357.pdf
+
+**SAHPASRUMVI**
+Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images
+https://arxiv.org/pdf/1908.09464.pdf
+
+****
+
 -->
 Other Good Resource:
 
@@ -565,17 +592,17 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 ` `
 
-**DOCBTCIO**
-
-[Discovery of complex behaviors through contact-invariant optimization](https://homes.cs.washington.edu/~todorov/papers/MordatchSIGGRAPH12.pdf) (Jul 2012)
-
-`Adventure time characters help each other out`
-
 **FMBLFBC**
 
 [Flexible Muscle-Based Locomotion for Bipedal Creatures](https://www.goatstream.com/research/papers/SA2013/)(Nov 13)
 
 `Watch my girrafe sway`
+
+**DOCBTCIO**
+
+[Discovery of complex behaviors through contact-invariant optimization](https://homes.cs.washington.edu/~todorov/papers/MordatchSIGGRAPH12.pdf) (Jul 2012)
+
+`Adventure time characters help each other out`
 
 ---
 
