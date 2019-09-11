@@ -13,31 +13,51 @@ Transfer over 2d skeleton or 2d silouete and 3d skeleton
 2dPoseNet
 Human 3.6M
 
+**FHADFMCOHPASFSRGBI**
+FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images
+https://arxiv.org/pdf/1909.04349.pdf
+(Sep 2019)
+`Literally hand models`
+
+**MMTSNFAR**
+Multi-Modal Three-Stream Network for Action Recognition
+https://arxiv.org/pdf/1909.03466.pdf
+` `
+
+**ILFHPP**
+Imitation Learning for Human Pose Prediction
+https://arxiv.org/pdf/1909.03449.pdf
+` `
+
 **HSUSV3DHSPAHPEWHOIAPC**
 Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense
 https://arxiv.org/pdf/1909.01507.pdf
+` `
 
 **CVFF3DHPE**
 Cross View Fusion for 3D Human Pose Estimation
 https://arxiv.org/pdf/1909.01203.pdf
+` `
 
 **LVFUMI**
 Learning Visual Features Under Motion Invariance
 https://arxiv.org/pdf/1909.00350.pdf
+` `
 
 **ECM3DCOHSHMUAEC**
 EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera
 https://arxiv.org/pdf/1908.11505.pdf
+` `
 
 **BUHRNFMPPE**
 Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation
 https://arxiv.org/pdf/1908.10357.pdf
+` `
 
 **SAHPASRUMVI**
 Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images
 https://arxiv.org/pdf/1908.09464.pdf
-
-****
+` `
 
 -->
 Other Good Resource:
