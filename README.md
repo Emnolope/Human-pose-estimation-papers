@@ -22,41 +22,58 @@ https://arxiv.org/pdf/1909.04349.pdf
 **MMTSNFAR**
 Multi-Modal Three-Stream Network for Action Recognition
 https://arxiv.org/pdf/1909.03466.pdf
-` `
+(Sep 2019)
+`Three brain lobes, not two`
 
 **ILFHPP**
 Imitation Learning for Human Pose Prediction
 https://arxiv.org/pdf/1909.03449.pdf
-` `
+(Sep 2019)
+`Teach a living manequinn to monkey see monkey do on humans, and then use them as a sketch`
 
 **HSUSV3DHSPAHPEWHOIAPC**
 Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense
 https://arxiv.org/pdf/1909.01507.pdf
-` `
+(Sep 2019)
+`A guy doing stuff with furniture`
 
 **CVFF3DHPE**
 Cross View Fusion for 3D Human Pose Estimation
 https://arxiv.org/pdf/1909.01203.pdf
-` `
+(Sep 2019)
+`Progressive JPEG style Tron Digitizer, but there's multiple lasers`
 
 **LVFUMI**
 Learning Visual Features Under Motion Invariance
 https://arxiv.org/pdf/1909.00350.pdf
-` `
+(Sep 2019)
+`Take a marker, move it to and away your face, ok, now spin it, ok now drag it around the table. Same marker? Good.`
 
 **ECM3DCOHSHMUAEC**
 EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera
 https://arxiv.org/pdf/1908.11505.pdf
-` `
+(Aug 2019)
+`They use an eyeball like camera, looks for movement, not brightness`
 
 **BUHRNFMPPE**
 Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation
+(Aug 2019)
 https://arxiv.org/pdf/1908.10357.pdf
 ` `
 
 **SAHPASRUMVI**
 Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images
+(Aug 2019)
 https://arxiv.org/pdf/1908.09464.pdf
+` `
+
+****
+Single-Stage Multi-Person Pose Machines
+
+Authors: Xuecheng Nie, Jianfeng Zhang, Shuicheng Yan, Jiashi Feng
+
+Abstract: Multi-person pose… ▽ More
+Submitted 24 August, 2019; originally announced August 2019.
 ` `
 
 -->
@@ -85,18 +102,21 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 `A short snarky 5th grader level description of the paper`
  
 
+- Quality
+	- 🍒 Good paper 💯👌🍎🍒🌠⭐🌟☄💎✅☑✔📟
 - Time Dimension
-	- 📷 Single-Shot
-	- 📹 Video/Real-Time
+	- 📷 Pictures
+	- 📹 Video
 - Spatial Dimensions
 	- 🚪 2D Models
 	- 📦 3D Models
 - Physics
 	- 🏋 Physics Ragdoll
 	- 🕺 Other type of parameterized body
-- Quality
-	- 🍒 Good paper
-	💯👌🍎🍒🌠⭐🌟☄💎✅☑✔📟
+- Supervision
+	- 👀 Supervised
+	- 👓 Semisupervised
+        - 🕶 Unsupervised 
 
 #### Table Of Contents
 - [Summer 2019](#summer2019)
@@ -117,7 +137,7 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 <a name="summer2019"></a>
 ### Summer 2019
 
-**SMAHSAC** 📦🏋🍒📟
+**SMAHSAC** 🍒📦🏋
 
 [Scalable Muscle Actuated Human Simulation and Control](http://mrl.snu.ac.kr/research/ProjectScalable/Paper.pdf) (Jul 2019) [CODE](https://github.com/lsw9021/MASS)
 
