@@ -15,7 +15,7 @@ Human 3.6M
 
 
 -->
-Other Good Resource:
+**Other Good Resources:**
 
 [Code](https://paperswithcode.com/task/pose-estimation)
 
@@ -75,19 +75,19 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 <a name="summer2019"></a>
 ### Summer 2019
 
-**FHADFMCOHPASFSRGBI**  
+**FHADFMCOHPASFSRGBI**&nbsp;
 
 [FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images](https://arxiv.org/pdf/1909.04349.pdf) (Sep 2019)
 
 `Literally hand models`
 
-**MMTSNFAR**  
+**MMTSNFAR**&nbsp;
 
 [Multi-Modal Three-Stream Network for Action Recognition](https://arxiv.org/pdf/1909.03466.pdf) (Sep 2019)
 
 `Three brain lobes, not two`
 
-**ILFHPP**  
+**ILFHPP** &nbsp;
 
 [Imitation Learning for Human Pose Prediction](https://arxiv.org/pdf/1909.03449.pdf) (Sep 2019)
 
