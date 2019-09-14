@@ -129,6 +129,18 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 `Papparazi of a obese mannequin wearing baggy clothes`
 
+**SSMPPM**
+
+[Single-Stage Multi-Person Pose Machines](https://arxiv.org/pdf/1908.09220.pdf) (Aug 2019)
+
+`It does the people finding in one step by using a root joint`
+
+**MMMEDFHA**
+
+[MEx: Multi-modal Exercises Dataset for Human Activity Recognition](https://arxiv.org/pdf/1908.08992.pdf) (Aug 2019)
+
+`Dataset of Kinect Camera + Samsung gear controllers + DDR mat`
+
 **SMAHSAC** 🍒📦🏋
 
 [Scalable Muscle Actuated Human Simulation and Control](http://mrl.snu.ac.kr/research/ProjectScalable/Paper.pdf) (Jul 2019) [CODE](https://github.com/lsw9021/MASS)
