@@ -76,19 +76,27 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 ### Summer 2019
 
 **FHADFMCOHPASFSRGBI**
+
 [FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images](https://arxiv.org/pdf/1909.04349.pdf) (Sep 2019)
+
 `Literally hand models`
 
 **MMTSNFAR**
+
 [Multi-Modal Three-Stream Network for Action Recognition](https://arxiv.org/pdf/1909.03466.pdf) (Sep 2019)
+
 `Three brain lobes, not two`
 
 **ILFHPP**
+
 [Imitation Learning for Human Pose Prediction](https://arxiv.org/pdf/1909.03449.pdf) (Sep 2019)
+
 `Teach a living manequinn to monkey see monkey do on humans, and then use them as a sketch`
 
 **HSUSV3DHSPAHPEWHOIAPC** 
+
 [Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense](https://arxiv.org/pdf/1909.01507.pdf) (Sep 2019)
+
 `A guy doing stuff with furniture`
 
 **CVFF3DHPE**
