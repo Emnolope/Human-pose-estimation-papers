@@ -74,8 +74,8 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 <a name="summer2019"></a>
 ### Summer 2019
-
-**FHADFMCOHPASFSRGBI**&nbsp;
+<p style="line-height: 1.1;">
+**FHADFMCOHPASFSRGBI**
 
 [FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images](https://arxiv.org/pdf/1909.04349.pdf) (Sep 2019)
 
@@ -98,7 +98,7 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 [Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense](https://arxiv.org/pdf/1909.01507.pdf) (Sep 2019)
 
 `A guy doing stuff with furniture`
-
+</p>
 **CVFF3DHPE**  
 
 [Cross View Fusion for 3D Human Pose Estimation](https://arxiv.org/pdf/1909.01203.pdf) (Sep 2019)
