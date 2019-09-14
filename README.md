@@ -74,8 +74,8 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 <a name="summer2019"></a>
 ### Summer 2019
-<p style="line-height: 1.1;">
-**FHADFMCOHPASFSRGBI**
+
+**FHADFMCOHPASFSRGBI**<br/>
 
 [FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images](https://arxiv.org/pdf/1909.04349.pdf) (Sep 2019)
 
