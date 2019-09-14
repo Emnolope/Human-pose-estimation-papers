@@ -137,9 +137,9 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 **TMGC**📟
 
-[Towards Markerless Grasp Capture](https://arxiv.org/pdf/1907.07388.pdf) (Jul 2019) [CODE](https://contactdb.cc.gatech.edu/grasp_ capture.html)
+[Towards Markerless Grasp Capture](https://arxiv.org/pdf/1907.07388.pdf) (Jul 2019) [CODE](https://contactdb.cc.gatech.edu/grasp_capture.html)
 
-` `
+`A bony hand grabs a stapler`
 
 <a name="spring2019"></a>
 ### Spring 2019
