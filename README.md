@@ -149,6 +149,24 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 `Dataset of Kinect Camera + Samsung gear controllers + DDR mat`
 
+**HARFSP**
+
+[Human activity recognition from skeleton poses](https://arxiv.org/pdf/1908.08928.pdf) (Aug 2019)
+
+`Is that a skeleton playing trombone?`
+
+**TSFFDVB3DHPE**
+
+[Trajectory Space Factorization for Deep Video-Based 3D Human Pose Estimation](https://arxiv.org/pdf/1908.08289.pdf) (Aug 2019)
+
+`Bullet trajectory through jello, TIME VISION`
+
+**R3DHPAW3DC**
+
+[Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/pdf/1908.06963.pdf) (Aug 2019)
+
+`Sitting on the couch vs sinking into the couch. You can't sink into the couch`
+
 **SMAHSAC** 🍒📦🏋
 
 [Scalable Muscle Actuated Human Simulation and Control](http://mrl.snu.ac.kr/research/ProjectScalable/Paper.pdf) (Jul 2019) [CODE](https://github.com/lsw9021/MASS)
