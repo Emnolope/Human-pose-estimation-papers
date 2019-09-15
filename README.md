@@ -119,6 +119,12 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 <a name="summer2019"></a>
 ### Summer 2019
 
+**BUHRNFMPPE**
+
+[Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation](https://arxiv.org/pdf/1908.10357.pdf) (Aug 2019)
+
+`What goes through the head of a really refined body-part fetishist`
+
 **DKDFEPEIV**
 
 [Dynamic Kernel Distillation for Efficient Pose Estimation in Videos](https://arxiv.org/pdf/1908.09216.pdf) (Aug 2019)
@@ -131,11 +137,23 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 `They use an eyeball like camera, looks for movement, not brightness`
 
-**BUHRNFMPPE**
+**HARFSP**
 
-[Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation](https://arxiv.org/pdf/1908.10357.pdf) (Aug 2019)
+[Human activity recognition from skeleton poses](https://arxiv.org/pdf/1908.08928.pdf) (Aug 2019)
 
-`What goes through the head of a really refined body-part fetishist`
+`Is that a skeleton playing trombone?`
+
+**MMMEDFHA**
+
+[MEx: Multi-modal Exercises Dataset for Human Activity Recognition](https://arxiv.org/pdf/1908.08992.pdf) (Aug 2019)
+
+`Dataset of Kinect Camera + Samsung gear controllers + DDR mat`
+
+**R3DHPAW3DC**
+
+[Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/pdf/1908.06963.pdf) (Aug 2019)
+
+`Sitting on the couch vs sinking into the couch. You can't sink into the couch`
 
 **SAHPASRUMVI**
 
@@ -149,29 +167,11 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 `It does the people finding in one step by using a root joint`
 
-**MMMEDFHA**
-
-[MEx: Multi-modal Exercises Dataset for Human Activity Recognition](https://arxiv.org/pdf/1908.08992.pdf) (Aug 2019)
-
-`Dataset of Kinect Camera + Samsung gear controllers + DDR mat`
-
-**HARFSP**
-
-[Human activity recognition from skeleton poses](https://arxiv.org/pdf/1908.08928.pdf) (Aug 2019)
-
-`Is that a skeleton playing trombone?`
-
 **TSFFDVB3DHPE**
 
 [Trajectory Space Factorization for Deep Video-Based 3D Human Pose Estimation](https://arxiv.org/pdf/1908.08289.pdf) (Aug 2019)
 
 `Bullet trajectory through jello, TIME VISION`
-
-**R3DHPAW3DC**
-
-[Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/pdf/1908.06963.pdf) (Aug 2019)
-
-`Sitting on the couch vs sinking into the couch. You can't sink into the couch`
 
 **SMAHSAC** 🍒📦🏋
 
