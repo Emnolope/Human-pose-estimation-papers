@@ -80,6 +80,12 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 <a name="fall2019"></a>
 ### Fall 2019
 
+**AWHFWSHPEFMRBG**
+
+[Adaptive Wasserstein Hourglass for Weakly Supervised Hand Pose Estimation from Monocular RGB](https://arxiv.org/pdf/1909.05666.pdf) (Sep 2019)
+
+`Lets you use hands from video games`
+
 **CVFF3DHPE**
 
 [Cross View Fusion for 3D Human Pose Estimation](https://arxiv.org/pdf/1909.01203.pdf) (Sep 2019)
