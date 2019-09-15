@@ -77,8 +77,8 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 ## Projects and papers
 
-<a name="summer2019"></a>
-### Summer 2019
+<a name="fall2019"></a>
+### Fall 2019
 
 **FHADFMCOHPASFSRGBI**
 
