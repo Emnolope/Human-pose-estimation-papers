@@ -80,23 +80,17 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 <a name="fall2019"></a>
 ### Fall 2019
 
+**CVFF3DHPE**
+
+[Cross View Fusion for 3D Human Pose Estimation](https://arxiv.org/pdf/1909.01203.pdf) (Sep 2019)
+
+`Progressive JPEG style Tron Digitizer, but there's multiple lasers`
+
 **FHADFMCOHPASFSRGBI**
 
 [FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images](https://arxiv.org/pdf/1909.04349.pdf) (Sep 2019)
 
 `Literally hand models`
-
-**MMTSNFAR**
-
-[Multi-Modal Three-Stream Network for Action Recognition](https://arxiv.org/pdf/1909.03466.pdf) (Sep 2019)
-
-`Three brain lobes, not two`
-
-**ILFHPP**
-
-[Imitation Learning for Human Pose Prediction](https://arxiv.org/pdf/1909.03449.pdf) (Sep 2019)
-
-`Teach a living manequinn to monkey see monkey do on humans, and then use them as a sketch`
 
 **HSUSV3DHSPAHPEWHOIAPC** 
 
@@ -104,11 +98,11 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 `A guy doing stuff with furniture`
 
-**CVFF3DHPE**
+**ILFHPP**
 
-[Cross View Fusion for 3D Human Pose Estimation](https://arxiv.org/pdf/1909.01203.pdf) (Sep 2019)
+[Imitation Learning for Human Pose Prediction](https://arxiv.org/pdf/1909.03449.pdf) (Sep 2019)
 
-`Progressive JPEG style Tron Digitizer, but there's multiple lasers`
+`Teach a living manequinn to monkey see monkey do on humans, and then use them as a sketch`
 
 **LVFUMI**
 
@@ -116,8 +110,20 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 `Take a marker, move it to and away your face, ok, now spin it, ok now drag it around the table. Same marker? Good.`
 
+**MMTSNFAR**
+
+[Multi-Modal Three-Stream Network for Action Recognition](https://arxiv.org/pdf/1909.03466.pdf) (Sep 2019)
+
+`Three brain lobes, not two`
+
 <a name="summer2019"></a>
 ### Summer 2019
+
+**DKDFEPEIV**
+
+[Dynamic Kernel Distillation for Efficient Pose Estimation in Videos](https://arxiv.org/pdf/1908.09216.pdf) (Aug 2019)
+
+`Uses previous kernel as priors for next estimation step. EXACTLY WHAT YOU WANTED TO DO.`
 
 **ECM3DCOHSHMUAEC**
 
