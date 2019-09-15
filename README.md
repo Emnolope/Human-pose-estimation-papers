@@ -14,6 +14,10 @@ Transfer over 2d skeleton or 2d silouete and 3d skeleton
 Human 3.6M
 
 
+Sum:   Jun Jul Aug
+Fal:   Sep Oct Nov
+Win:   Dec Jan Feb
+Spr:   Mar Apr May
 -->
 **Other Good Resources:**
 
@@ -57,6 +61,7 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
         - 🕶 Unsupervised 
 
 #### Table Of Contents
+- [Fall 2019](#fall2019)
 - [Summer 2019](#summer2019)
 - [Spring 2019](#spring2019)
 - [Winter 2018](#winter2018)
@@ -110,6 +115,9 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 [Learning Visual Features Under Motion Invariance](https://arxiv.org/pdf/1909.00350.pdf) (Sep 2019)
 
 `Take a marker, move it to and away your face, ok, now spin it, ok now drag it around the table. Same marker? Good.`
+
+<a name="summer2019"></a>
+### Summer 2019
 
 **ECM3DCOHSHMUAEC**
 
