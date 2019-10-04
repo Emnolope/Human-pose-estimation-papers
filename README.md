@@ -717,25 +717,19 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 [HumanEva-I](http://humaneva.is.tue.mpg.de/) Small 3d pose videos.
 
-[mEX](https://data.mendeley.com/datasets/p89fwbzmkd/3) 3d pose with pressure and camera and kinect
+[SURREAL](https://www.di.ens.fr/willow/research/surreal/data/) Videogame characters pasted onto random
 
-Unite The People
-
-[CMU Panoptic Studio](http://domedb.perception.cs.cmu.edu/) Camera sphere, 3d pose, video and point clouds
-
-A Generative Model of People in Clothing
-
-Deformable GANs for Pose Based Human Image Generatoin
-
-Dense Pose Transfer
-
-[Human3.6M](http://vision.imar.ro/human3.6m/description.php)
-
-[HumanEva](http://humaneva.is.tue.mpg.de/)
+[mXE](https://data.mendeley.com/datasets/p89fwbzmkd/3) 3d pose with pressure and camera and kinect
 
 [MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 
-[Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
+[CMU Panoptic Studio](http://domedb.perception.cs.cmu.edu/) Camera sphere, 3d pose, video and point clouds
+
+[UP-3D/Unite The People](http://files.is.tuebingen.mpg.de/classner/up/) 3d pose, also goody
+
+##
+
+
 
 [Pose Guided Person Image Generation](https://arxiv.org/pdf/1705.09368.pdf) - [[CODE]](https://github.com/charliememory/Pose-Guided-Person-Image-Generation) - Ma, L., Jia, X., Sun, Q., Schiele, B., Tuytelaars, T., & Gool, L.V. (NIPS 2017)
 
@@ -744,6 +738,12 @@ Dense Pose Transfer
 [Deformable GANs for Pose-based Human Image Generation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Siarohin_Deformable_GANs_for_CVPR_2018_paper.pdf) - [[CODE]](https://github.com/AliaksandrSiarohin/pose-gan) - Siarohin, A., Sangineto, E., Lathuilière, S., & Sebe, N. (CVPR 2018)
 
 [Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) - Neverova, N., Guler, R.A., & Kokkinos, I. (ECCV 2018)
+
+A Generative Model of People in Clothing
+
+Deformable GANs for Pose Based Human Image Generatoin
+
+Dense Pose Transfer
 
 ---
 
