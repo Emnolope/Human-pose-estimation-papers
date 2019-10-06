@@ -217,13 +217,13 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 [Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://arxiv.org/pdf/1904.03345v1.pdf) (Apr 2019)
 
-` `
+`It uses spider web like ideas instead of window screen like ideas to find pose of a person`
 
 **SSNFHPE** 🍒
 
 [Spatial Shortcut Network for Human Pose Estimation](https://arxiv.org/pdf/1904.03141v1.pdf) (Apr 2019)
 
-` `
+`Like a jigsaw puzzle, but a tweaker is solving it and keeps darting around the whole thing`
 
 **V2GCCEFRWV**
 
@@ -235,7 +235,7 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 [DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image](https://arxiv.org/pdf/1903.10153v3.pdf) (Mar 2019)
 
-` `
+`Let's decide to get rid of the middleman`
 
 **DIAFFHPT**
 
