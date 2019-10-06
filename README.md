@@ -239,15 +239,15 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 **DIAFFHPT**
 
-[Dense Intrinsic Appearance Flow for Human Pose Transfer](http://arxiv.org/abs/1903.11326v1) (Mar 2019)
+[Dense Intrinsic Appearance Flow for Human Pose Transfer](https://arxiv.org/pdf/1903.11326v1.pdf) (Mar 2019)
 
-` `
+`What happens through the mind of a model photographer when he sees the set in the studio.`
 
 **KPTIPAFCFKSWDTIHP** 🍒
 
 [KPTransfer: improved performance and faster convergence from keypoint subset-wise domain transfer in human pose estimation](https://arxiv.org/pdf/1903.09926v1) (Mar 2019)
 
-` `
+`'Light Balance' dancers\' different suit modes`
 
 **LCFTCCOT**
 
