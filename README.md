@@ -709,29 +709,31 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 ## DataSets
 
-[MS COCO](http://cocodataset.org) 2d object segmentations
+## DataSets
 
-[MPII POSE](http://human-pose.mpi-inf.mpg.de/) 2d pose video snippets
+[MS COCO](http://cocodataset.org) 2d object segmentations **GET SOME**
 
-[Human 3.6M](http://vision.imar.ro/human3.6m/description.php) 3d pose with 4 cameras and TOF. Bonus synthetic data.
+[MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/) **GET SOME**
 
-[HumanEva-I](http://humaneva.is.tue.mpg.de/) Small 3d pose videos.
+[MPII POSE](http://human-pose.mpi-inf.mpg.de/) 2d pose video snippets **GET SOME**
 
-[SURREAL](https://www.di.ens.fr/willow/research/surreal/data/) Videogame characters pasted onto random
+[Human 3.6M](http://vision.imar.ro/human3.6m/description.php) 3d pose with 4 cameras and TOF. Bonus synthetic data. **BEG YOU**
 
-[mXE](https://data.mendeley.com/datasets/p89fwbzmkd/3) 3d pose with pressure and camera and kinect
+[HumanEva-I](http://humaneva.is.tue.mpg.de/) Small 3d pose videos. **GET SOME**
 
-[MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
+[SURREAL](https://www.di.ens.fr/willow/research/surreal/data/) Videogame characters pasted onto random **GET SOME**
 
-[CMU Panoptic Studio](http://domedb.perception.cs.cmu.edu/) Camera sphere, 3d pose, video and point clouds
+[mXE](https://data.mendeley.com/datasets/p89fwbzmkd/3) 3d pose with pressure and camera and kinect **GET SOME**
 
-[UP-3D/Unite The People](http://files.is.tuebingen.mpg.de/classner/up/) 3d pose, also goody
+[VGG HPE](https://www.robots.ox.ac.uk/~vgg/data/pose/) Upper body **GET SOME**
+
+[CMU Panoptic Studio](http://domedb.perception.cs.cmu.edu/) Camera sphere, 3d pose, video and point clouds **GET SOME**
+
+[UP-3D/Unite The People](http://files.is.tuebingen.mpg.de/classner/up/) 3d pose, also goody ****
 
 ##
 
-
-
-[Pose Guided Person Image Generation](https://arxiv.org/pdf/1705.09368.pdf) - [[CODE]](https://github.com/charliememory/Pose-Guided-Person-Image-Generation) - Ma, L., Jia, X., Sun, Q., Schiele, B., Tuytelaars, T., & Gool, L.V. (NIPS 2017)
+[Pose Guided Person Image Generation](https://arxiv.org/pdf/1705.09368.pdf) [[CODE]](https://github.com/charliememory/Pose-Guided-Person-Image-Generation) - Ma, L., Jia, X., Sun, Q., Schiele, B., Tuytelaars, T., & Gool, L.V. (NIPS 2017)
 
 [A Generative Model of People in Clothing](https://arxiv.org/pdf/1705.04098.pdf) - Lassner, C., Pons-Moll, G., & Gehler, P.V. (ICCV 2017)	
 
@@ -744,6 +746,9 @@ A Generative Model of People in Clothing
 Deformable GANs for Pose Based Human Image Generatoin
 
 Dense Pose Transfer
+
+
+---
 
 ---
 
