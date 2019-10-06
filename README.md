@@ -27,6 +27,26 @@ Spr:   Mar Apr May
 ######################################################################################################################################
 ######################################################################################################################################
 ######################################################################################################################################
+
+ELLKUARWSC
+Estimating Lower Limb Kinematics using a Reduced Wearable Sensor Count
+https://arxiv.org/pdf/1910.00910
+(Oct 2019)
+
+DRACJ3DPASEBDRAC
+DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare
+https://arxiv.org/pdf/1910.00116
+(Oct 2019)
+
+LTR3DHPASVMFITL
+Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop
+https://arxiv.org/pdf/1909.12828
+(Sep 2019)
+
+EPPFHPEWJAR
+Exploring Pose Priors for Human Pose Estimation with Joint Angle Representations
+https://arxiv.org/pdf/1909.12761
+(Sep 2019)
 -->
 [Code](https://paperswithcode.com/task/pose-estimation) 😮
 
@@ -247,7 +267,7 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 [KPTransfer: improved performance and faster convergence from keypoint subset-wise domain transfer in human pose estimation](https://arxiv.org/pdf/1903.09926v1) (Mar 2019)
 
-`'Light Balance' dancers\' different suit modes`
+`'Light Balance' dancers' different suit modes`
 
 **LCFTCCOT**
 
@@ -259,7 +279,7 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 [PifPaf: Composite Fields for Human Pose Estimation](https://arxiv.org/pdf/1903.06593v2.pdf) (Mar 2019)
 
-` `
+`One for the organs places and one for the body, very standard method`
 
 **TLFFHOIRAHPE**
 
