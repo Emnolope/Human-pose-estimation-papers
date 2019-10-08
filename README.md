@@ -135,7 +135,7 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 [Imitation Learning for Human Pose Prediction](https://arxiv.org/pdf/1909.03449.pdf) (Sep 2019)
 
-`Teach a living manequinn to monkey see monkey do on humans, and then use them as a sketch`
+`Teach a living manequinn to monkey see monkey do on humans, and then use them as a sketch, like GAN Swolebot`
 
 **LVFUMI**
 
@@ -749,7 +749,10 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 [CMU Panoptic Studio](http://domedb.perception.cs.cmu.edu/) Camera sphere, 3d pose, video and point clouds **GET SOME**
 
-[UP-3D/Unite The People](http://files.is.tuebingen.mpg.de/classner/up/) 3d pose **GET SOME**
+[UP-3D/Unite The People](http://files.is.tuebingen.mpg.de/classner/up/) 3d pose, also goody **GET SOME**
+
+[LIP](http://sysu-hcp.net/lip/index.php) Look into person, **GET SOME**
+
 
 ##
 
