@@ -749,7 +749,7 @@ The papers are sorted by season for sanity purposes. More recent papers TEND to 
 
 [CMU Panoptic Studio](http://domedb.perception.cs.cmu.edu/) Camera sphere, 3d pose, video and point clouds **GET SOME**
 
-[UP-3D/Unite The People](http://files.is.tuebingen.mpg.de/classner/up/) 3d pose, also goody ****
+[UP-3D/Unite The People](http://files.is.tuebingen.mpg.de/classner/up/) 3d pose **GET SOME**
 
 ##
 
