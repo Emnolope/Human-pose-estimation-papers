@@ -972,69 +972,45 @@ Synthesizing Training Images for Boosting Human 3D Pose Estimation (Apr 2016)
 ` `
 Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video - Completely insane and above the scope of science (Mar 2016)
 ` `
-
 [DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation](https://arxiv.org/pdf/1511.06645.pdf) [[CODE]](https://github.com/eldar/deepcut) (Nov 2015)
 ` `
-
 A Dual-Source Approach for 3D Pose Estimation from a Single Image (Sep 2015)
 ` `
-
 [Human Pose Estimation with Iterative Error Feedback](https://arxiv.org/pdf/1507.06550.pdf) [[CODE]](https://github.com/pulkitag/ief) (Jul 2015)
 ` `
-
 [Flowing ConvNets for Human Pose Estimation in Videos](https://arxiv.org/pdf/1506.02897.pdf) [[CODE]](https://github.com/tpfister/caffe-heatmap) (Jun 2015)
 ` `
-
 [3D Human Pose Estimation from Monocular Images with Deep Convolutional Neural Network](http://visal.cs.cityu.edu.hk/static/pubs/conf/accv14-3dposecnn.pdf) (Nov 2014)
 ` `
-
 [Efficient Object Localization Using Convolutional Networks](https://arxiv.org/pdf/1411.4280.pdf) (Nov 2014)
 ` `
-
 [MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation](https://arxiv.org/pdf/1409.7963.pdf) (Sep 2014)
 ` `
-
 [Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation](https://arxiv.org/pdf/1406.2984.pdf) [[CODE]](https://github.com/max-andr/joint-cnn-mrf) (Jun 2014)
 ` `
-
 [Learning Human Pose Estimation Features with Convolutional Networks](https://arxiv.org/pdf/1312.7302.pdf) (Dec 2013)
 ` `
-
 [DeepPose: Human Pose Estimation via Deep Neural Networks](https://arxiv.org/pdf/1312.4659.pdf) (Dec 2013)
 ` `
-
 Deep 3D Pose Dictionary: 3D Human Pose Estimation from Single RGB Image Using Deep Convolutional Neural Network
 ` `
-
 3D Hand Pose Tracking from Depth Images using Deep Reinforcement Learning
 ` `
-
 [Human 3D Reconstruction and Identification Using Kinect Sensor](https://ieeexplore.ieee.org/abstract/document/8477609) (Aug 2018) `Low-fi body ID`
+[3D Head Pose Estimation Using Tensor Decomposition and Non-linear Manifold Modeling](https://ieeexplore.ieee.org/abstract/document/8491002) (Sep 2018)
 ` `
-
-[3D Head Pose Estimation Using Tensor Decomposition and Non-linear Manifold Modeling](https://ieeexplore.ieee.org/abstract/document/8491002) (Sep 2018) `
-` `
-
-`
 A Data-Driven Approach for 3D Human Body Pose Reconstruction from a Kinect Sensor
 ` `
-
 Accidental Fall Detection Based on Pose Analysis and SVDD
 ` `
-
 $$$[Global Feature Learning with Human Body Region Guided for Person Re-identification](https://link.springer.com/chapter/10.1007/978-3-030-03398-9_2) (Nov 2018)
 ` `
- 
 XXX[HUMAN POSE ESTIMATION IN IMAGE SEQUENCES
 ](http://eprints.utm.my/id/eprint/79567/1/TohJunHauMFKE2018.pdf) (Jun 2018)
 ` `
- 
 [Filling the Joints: Completion and Recovery of Incomplete 3D Human Poses](https://www.mdpi.com/2227-7080/6/4/97) (Jun 2018)
 ` `
- 
 [Adapting MobileNets for mobile based upper body pose estimation](https://repository.edgehill.ac.uk/10789/1/adapting-mobilenets-debnath.pdf) Oct 2018
 `Fast Boxer`
-
 [3D Human Pose Estimation with 2D Marginal Heatmaps](https://arxiv.org/pdf/1806.01484v2)
 ` `
-
