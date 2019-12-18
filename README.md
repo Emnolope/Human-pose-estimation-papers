@@ -47,6 +47,8 @@ EPPFHPEWJAR
 Exploring Pose Priors for Human Pose Estimation with Joint Angle Representations
 https://arxiv.org/pdf/1909.12761
 (Sep 2019)
+
+http://www.andreasaristidou.com/publications/papers/3dMotionReconstruction.pdf
 -->
 [Code](https://paperswithcode.com/task/pose-estimation) 😮
 
