@@ -12,7 +12,7 @@ Give the sticks direction (My idea)
 Transfer over 2d skeleton or 2d silouete and 3d skeleton
 2dPoseNet
 Human 3.6M
-
+https://arxiv.org/pdf/1905.05754.pdf
 
 Sum:   Jun Jul Aug
 Fal:   Sep Oct Nov
