@@ -1,3 +1,6 @@
+# OH HAI ALL THIS IS REALLY OLD CARP SHIT (which actually makes great aquaponic fertilizer)
+# IF YOU WANT THE BALLERIST 3DHPE PAPERS HEAD OVER TO [THIS LINK](https://docs.google.com/spreadsheets/d/18V2xNS5yfG7uICSD7L_uHn3AZ9xCQS_3OVAYnj4iKHs/edit#gid=0) Click it and you'll be able to swallow entire cans of Spinach like popeye.
+
 <!---
 VR GOALS, create cheapish, LED-less body tracking solution. raspberry pi based
 teach mathematics on the internet with the 3d medium
